@@ -1,0 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
+.site-title {font-size: 50px;}
+.site-header {border: 200px;}
+.site-footer {display: "{{ site.author }}"}
