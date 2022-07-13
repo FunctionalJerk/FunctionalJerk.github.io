@@ -17,11 +17,14 @@ title: Blog
 author: David Hanraths
 email: D.Hanraths@web.de
 description: >- # this means to ignore newlines until "baseurl:"
-  This site's main purpose is for me to learn about GitHub-pages and Jekyll
+  This Blog is supposed to help me document my ideas and short coding adventures. 
+  Larger projects are documented under "projects".  
+  Please feel free to contact me about questions, input and requests.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  FunctionalJerk
+soundcloud_username: d-the-dangerous
 
 # Build settings
 markdown: kramdown
