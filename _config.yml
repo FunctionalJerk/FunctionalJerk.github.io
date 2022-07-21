@@ -18,9 +18,9 @@ author: David Hanraths
 email: D.Hanraths@web.de
 description: >- # this means to ignore newlines until "baseurl:"
   This Blog is supposed to help me document my ideas, projects and short coding adventures. 
-  More detailed documentations can be found under <a href="https://functionaljerk.github.io/projects/">projects</a>  
+  More detailed documentations can be found under <p><a href="https://functionaljerk.github.io/projects/">projects</a></p>  
   Please feel free to contact me about questions, input and requests.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://functionaljerk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  FunctionalJerk
