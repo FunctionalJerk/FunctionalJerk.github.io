@@ -12,9 +12,9 @@ There's not much to find here yet, but I hope to grow this page into some sort o
 
 I'm David, a Germany/NRW based student of Music with a weird fixation on the aesthetic aspects of digital space. 
 At *Intitute for Music and Media Duesseldorf* I started out as a Guitarist dreaming to expand into Music-production (forgive me, I was young).
-I did so and quickly learned that there's aspects of Music that fascinate me more. 
+I did so and quickly learned that there's aspects of Music that fascinate me even more. 
 
-Long story short, I started dabbling in Programming and digital Arts and now here I am trying to tell the World what I discovered and what services I can provide. 
+Long story short, I started dabbling in programming and digital Arts and now here I am trying to tell the World what I discovered. 
 
 Please get in contact and stay tuned for the actual content.
 
