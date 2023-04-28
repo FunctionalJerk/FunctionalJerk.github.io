@@ -19,7 +19,7 @@ title: mm-m
 **David Hanraths**  	*Synthesis, Composition, Production*  
 
 Within my bachelor thesis, I have developed a concept for transcribing those speech melodies that occur within everyday human interaction.  
-This EP documents my experiments with using this method as a form of relative and gradual musical notation.  
+This EP documents my experiments on using this method as a form of relative and gradual musical notation.  
 Each piece represents an attempt to reconcile free human improvisation with algorithmic composition.  
 
 ## Pictures 
