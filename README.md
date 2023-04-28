@@ -6,4 +6,5 @@ It was build using the [portfolio-jekyll-theme](https://github.com/LeNPaul/portf
 # ToDo
 
 - [ ] add project "Bela-Synth"
+- [ ] add project "Apotrop"
 

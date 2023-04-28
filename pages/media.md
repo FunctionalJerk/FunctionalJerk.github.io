@@ -4,9 +4,9 @@ title: Media
 permalink: /media
 ---
 
-# Media
+<br>
+<br>
 
-Take a quick look around to get an impression of my work!
 
 ### live
 

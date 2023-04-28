@@ -46,7 +46,7 @@ The project will soon be available on GitHub. Meanwhile, you'll have to settle f
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/F0.png)
 
-*Visualization of F0 with librosa.pyin, showing spectral content of an utterance*
+*Visualization of F0 with librosa.pyin, showing the intonation of an utterance*
 
 ---
 
@@ -57,6 +57,6 @@ The project will soon be available on GitHub. Meanwhile, you'll have to settle f
 
 <!--- [GitHub-repostitory](https://github.com/FunctionalJerk/audio-DataMining) --->
 
-### Related projects 
+## Related projects 
 - [VocalSampler]({{ site.url }}/projects/VocalSampler)
 - [°mm ↓m​:​°​,]({{ site.url }}/projects/mm-m)

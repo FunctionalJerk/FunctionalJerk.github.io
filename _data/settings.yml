@@ -20,9 +20,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'github',     link: 'https://github.com/FunctionalJerk'}
-- {icon: 'bandcamp',   link: 'https://davidhanraths.bandcamp.com'}
-- {icon: 'soundcloud', link: 'https://soundcloud.com/d-the-dangerous'}
+- {icon: 'mail',	link: 'mailto:d.hanraths(at)web.de'}
+- {icon: 'github',	link: 'https://github.com/FunctionalJerk'}
+- {icon: 'bandcamp',	link: 'https://davidhanraths.bandcamp.com'}
+- {icon: 'soundcloud',	link: 'https://soundcloud.com/d-the-dangerous'}
 
 #-------------------------------
 # SEO Section

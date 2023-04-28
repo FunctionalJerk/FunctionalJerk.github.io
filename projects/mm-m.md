@@ -31,6 +31,6 @@ Each piece represents an attempt to reconcile free human improvisation with algo
 ![experimental scoring-system]({{ site.github.url }}/assets/img/projects/{{ page.title }}/score.jpg)
 *Experimental scoring-system*
 
-### Related projects 
+## Related projects 
 - [Vocal Sampler]({{ site.url }}/projects/VocalSampler)
 - [Audio Data Mining]({{ site.url }}/projects/DataMining)

@@ -11,15 +11,22 @@ This site launched just recently and a good amount of projects and general infor
 
 ## About me
 
-I'm David, a Germany/NRW based student of Music with an obsession on the aesthetic aspects of digital and acoustic spaces.  
-With an emphasis on music informatics, I completed my bachelor's degree (BMus) in September 2022 at *Institute for Music and Media* in Düsseldorf, Germany.
+<!--- MMus - *Klang und Realität* - 1. semester - RSH Düsseldorf   --->
+I'm David Hanraths, 33yo he/him, Germany/NRW based student of Music with an obsession on the aesthetic aspects of digital and acoustic spaces.  
+With an emphasis on music informatics, I completed my bachelor's degree (BMus) in September 2022 at *Institute for Music and Media* in Düsseldorf, Germany. 
+
+I'm always looking for new adventures and challenges, so if you like what you see on this page, don't hesitate to get in contact through one of these channels:  
+- [**github**](https:github.com/{{site.github_username}})  
+- [**bandcamp**](https://davidhanraths.bandcamp.com)  
+- [**mail**](mailto:d.hanraths(at)web.de)  
 
 ## Work
 
-Please get in contact for inquiries regarding collaborations and jobs in:
+I'm looking to collaborate in interdisciplinary projects and to work jobs in:
 - Music production 
 - Sonic art in installation 
 - Sonic art in instrumentation
+- Live sound
 - Workshops and talks regarding:
 	- Live-Coding
 	- SBC's and MC's in contexts of Art
@@ -27,14 +34,4 @@ Please get in contact for inquiries regarding collaborations and jobs in:
 	- (Academic) writing with Markdown, Pandoc and Zotero
 	- Basics of music production
 	- Basics of DIY electronics
-
-## Contact
-
-**David Hanraths**  
-33yo he/him  
-<!--- MMus - *Klang und Realität* - 1. semester - RSH Düsseldorf   --->
-
-[**github**](https:github.com/{{site.github_username}})  
-[**bandcamp**](https://davidhanraths.bandcamp.com)  
-[**mail**](mailto:d.hanraths(at)web.de)
 
