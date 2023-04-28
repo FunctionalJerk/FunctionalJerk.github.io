@@ -12,8 +12,9 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'tSNE-VocalSampler',   url: 'VocalSampler'}
 - {name: '°mm ↓m​:​°​,',   url: 'mm-m'}
+- {name: 'tSNE-VocalSampler',   url: 'VocalSampler'}
+- {name: 'EsKannNichtAllesBlumeSein', url: 'Blume'}
 - {name: 'Audio Data Mining', url: 'DataMining'}
 #- {name: 'Project Four',  url: 'proj-4'}
 

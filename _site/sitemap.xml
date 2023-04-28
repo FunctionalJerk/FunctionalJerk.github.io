@@ -5,6 +5,9 @@
 <lastmod>2023-04-25T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/projects/Blume/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/projects/DataMining/</loc>
 </url>
 <url>
@@ -27,17 +30,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/projects/mm-m/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/projects/proj-2/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/projects/proj-3/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/projects/proj-4/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/projects/proj-5/</loc>
 </url>
 </urlset>

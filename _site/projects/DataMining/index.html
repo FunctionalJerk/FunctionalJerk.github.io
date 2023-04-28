@@ -9,7 +9,7 @@
     <meta rel="publisher" href="https://plus.google.com/u/0/#">
     <title>
       
-        DataMining | David Hanraths || FunctionalJerk
+        DataMining | David Hanraths || Portfolio
       
     </title>
     <link rel="stylesheet" href="/assets/css/all.css">
@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <!-- Use Atom -->
-    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="David Hanraths || FunctionalJerk" />
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="David Hanraths || Portfolio" />
     <script type="text/javascript" async
       src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
     </script>
@@ -35,7 +35,7 @@
 
     <!-- Use Jekyll SEO plugin -->
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>DataMining | David Hanraths   FunctionalJerk</title>
+<title>DataMining | David Hanraths   Portfolio</title>
 <meta name="generator" content="Jekyll v4.3.2" />
 <meta property="og:title" content="DataMining" />
 <meta name="author" content="David Hanraths" />
@@ -44,7 +44,7 @@
 <meta property="og:description" content="Documentation of DHanr’s projects in music, artistic research and audio-electronics." />
 <link rel="canonical" href="http://localhost:4000/projects/DataMining/" />
 <meta property="og:url" content="http://localhost:4000/projects/DataMining/" />
-<meta property="og:site_name" content="David Hanraths   FunctionalJerk" />
+<meta property="og:site_name" content="David Hanraths   Portfolio" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="DataMining" />
@@ -57,7 +57,7 @@
     <div class="site-container">
       <header>
   <div class="logo">
-    <a href="/">David Hanraths || FunctionalJerk</a>
+    <a href="/">David Hanraths || Portfolio</a>
   </div>
   <nav>
     
@@ -79,12 +79,56 @@
     <p></p>
     <div class="project-load"><h1 id="audio-data-mining">Audio Data Mining</h1>
 
-<p><a href="https://supercollider.github.io/">SuperCollider</a>.</p>
+<p>This project was was part of my bachelor studies in <em>Music and Media</em> at <em>Robert-Schumann-Hochschule Düsseldorf</em> and was dedicated to the methods for analyzing the speech melodies (F0) that occur in everyday human interaction. 
+I first tried the python-library <a href="https://librosa.org/doc/main/generated/librosa.pyin.html">librosa.pyin</a>, but ended up using the package <a href="https://github.com/usagi5886/intonation">intonation</a> for the <a href="https://www.r-project.org/">R-programming-language </a> to extract and visualize these melodies.</p>
 
-<p><a href="https://github.com/FunctionalJerk/audio-DataMining">GitHub-repostitory</a>.<br />
-It was part of my bachelor studies in <em>Music and Media</em> at <em>Robert-Schumann-Hochschule Düsseldorf</em>.</p>
+<p>Building on the resulting data-set, I used some of the methods described in the instructions for using the <a href="https://ml4a.github.io/guides/AudioTSNEViewer/">AudioTSNEViewer</a> by <em>Machine Learning for Artists</em>:</p>
 
-<!--- insert some basic description here --->
+<video width="640" height="400" controls="">
+  <source src="http://localhost:4000/assets/vid/projects/DataMining/tsne.mp4" type="video/mp4" />
+</video>
+
+<p>As you may notice, some of the samples represented by the dots in this scatterplot do not get triggered. 
+Because of that and because I wanted to explore even more of the possibilities offered by <a href="https://medium.com/analytics-vidhya/what-is-t-sne-37bfb920e431">t-SNE</a>,
+I headed on to start my next project.</p>
+
+<p><a href="http://localhost:4000/projects/VocalSampler">Visit the tSNE-VocalSampler</a> and <a href="http://localhost:4000/projects/mm-m">listen to °mm ↓m​:​°​,</a> to get an idea of how to use this data to generate algorithmic scores and synthesize sound.</p>
+
+<p>The project will soon be available on GitHub. Meanwhile, you’ll have to settle for some pictures:</p>
+
+<!--- [SuperCollider](https://supercollider.github.io/). --->
+
+<h2 id="plots-and-visualizations">Plots and Visualizations</h2>
+
+<p><img src="/assets/img/projects/DataMining/col.png" alt="" /></p>
+
+<p><em>Visualization of F0-data through R-intonation</em></p>
+
+<hr />
+
+<p><img src="/assets/img/projects/DataMining/friend.png" alt="" /></p>
+
+<p><em>Collection of utterances performed by a good friend, visualized through R-intonation</em></p>
+
+<hr />
+
+<p><img src="/assets/img/projects/DataMining/pyin.png" alt="" /></p>
+
+<p><em>Mel-spectrogram with librosa.pyin, showing spectral content of an utterance</em></p>
+
+<hr />
+
+<p><img src="/assets/img/projects/DataMining/F0.png" alt="" /></p>
+
+<p><em>Visualization of F0 with librosa.pyin, showing spectral content of an utterance</em></p>
+
+<hr />
+
+<p><img src="/assets/img/projects/DataMining/richvis.png" alt="" /></p>
+
+<p><em>Richvisualization through R-intonation</em></p>
+
+<!--- [GitHub-repostitory](https://github.com/FunctionalJerk/audio-DataMining) --->
 
 <h3 id="related-projects">Related projects</h3>
 <ul>

@@ -6,10 +6,29 @@ permalink: /about
 
 # Welcome! 
 
-Hey you! Thanks for visiting this very new place. There's not much to find here yet, but I hope to grow this page into some sort of portfolio.
+Hey you! Thanks for visiting this very new place.  
+This site launched just recently and a good amount of projects and general information are still missing. 
 
-I'm David, a Germany/NRW based student of Music with an obsession on the aesthetic aspects of digital space. At Intitute for Music and Media Duesseldorf I started out as a Guitarist dreaming to expand into Music-production (forgive me, I was young). I did so and quickly learned that there's aspects of Music that fascinate me even more.
+## About me
 
-Long story short, I started dabbling in programming and digital Arts and now here I am trying to tell the World what I discovered.
+I'm David, a Germany/NRW based student of Music with an obsession on the aesthetic aspects of digital and acoustic spaces.  
+I have completed my bachelor's degree on 09/22 at *Institute for Music and Media* in Düsseldorf, Germany, 
+emphasizing on music informatics -and production.
 
-Please get in contact and stay tuned for the actual content.
+## Work
+
+Please get in contact for inquiries regarding collaborations and jobs in:
+- Music production 
+- Sonic art in installation 
+- Sonic art instrumentation
+- Workshops and talks regarding:
+	- Live-Coding (for kids)
+	- SBC's and MC's in contexts of Art
+	- SuperCollider 
+	- (Academic) writing with Markdown, Pandoc and Zotero
+	- Basics of in-the-box music production
+
+I would also consider jobs in teaching or performing electric guitar. 
+As this is not my main focus, you'd have to sell me on it ;) 
+
+

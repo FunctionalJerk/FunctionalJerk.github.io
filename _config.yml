@@ -2,8 +2,8 @@
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:	     "David Hanraths || FunctionalJerk"
-description: "Digital portfolio for my projects in arts and artistic research"
+title:	     "David Hanraths || Portfolio"
+description: "Digital portfolio for my projects in sonic arts and artistic research"
 author:      "David Hanraths"
 
 description: >- # this means to ignore newlines until "baseurl:"
