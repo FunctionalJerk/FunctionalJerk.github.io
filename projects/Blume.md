@@ -21,9 +21,8 @@ This work explores the abstact ambiguity of parasemantic sign systems within the
 It utilizes field-recordings, private voice messages sourced through the [signal-media-exporter](https://github.com/IdealChain/signal-media-exporter), 
 aswell as original speech composed by Lennart Posch, that was performed by himself and Maral Sedighi.
 
-To achieve this, I programmed a fixed form of generative parts within the SuperCollider programming language.
+I programmed a fixed form, composed of generative parts within the SuperCollider programming language.
 This Routine ran on a *Raspberry-Pi 4B* equipped with [Prynth](https://prynth.github.io/) and connected to a *RME Fireface UCX+*.  
-
 
 <!--- The file linked here represents one of possibly infinite variations of this generative piece and is rendered in stereo. --->
 
