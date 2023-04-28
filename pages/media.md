@@ -8,7 +8,7 @@ permalink: /media
 
 Take a quick look around to get an impression of my work!
 
-## live
+### live
 
 Here's a list of live performances I did or collaborated on.
 
@@ -28,7 +28,7 @@ Visit the [project page]({{ site.github.url }}/projects/Apotrop).
 
 <!--- for more information or [on GitHub]({{site.url}}/apotrop) for details. ---> 
 
-### execute // Live-Concert // 29.10.2021
+#### execute // Live-Concert // 29.10.2021
 
 <iframe
     width="100%"
@@ -43,7 +43,7 @@ Visit the [project page]({{ site.github.url }}/projects/Apotrop).
 I had the great opportunity to play a gig at Super7000. 
 Visit [Die Digitale](https://die-digitale.net) and Toplap-Düsseldorf on [Twitter](https://twitter.com/ToplapD) or [Facebook](https://www.facebook.com/ToplapD/).
 
-### execute // LiveCode Sets
+#### execute // LiveCode Sets
 
 <iframe 
 	width="100%" 
@@ -61,7 +61,7 @@ Visit Toplap-Düsseldorf on [Twitter](https://twitter.com/ToplapD) or [Facebook]
 I will try to have this embedded, meanwhile you can [watch it on YouTube](https://www.youtube.com/watch?v=d6bMp0vQqq4&t=378s).  
 
 <!---
-### Yasuko Yui - Your Data
+#### Yasuko Yui - Your Data
 
 <iframe 
 	width="100%"
@@ -76,7 +76,7 @@ I will try to have this embedded, meanwhile you can [watch it on YouTube](https:
 I was honored to do the audio-programming for this multimedia piece by composer [Yasuko Yui](http://y-yui.eu/yui/Home.html).
 --->
 
-### Econore X Museum Abteiberg Mönchengladbach 20.06.2019
+#### Econore X Museum Abteiberg Mönchengladbach 20.06.2019
 
 <iframe
     width="100%"
@@ -92,22 +92,11 @@ I was honored to do the audio-programming for this multimedia piece by composer 
 This was my first live-coding performance, where I used filtered feedback and telegram voicemails, arranged in a playable pseudo-radio.
 Kindly presented by *Econore X Museum Abteiberg on June 20th, 2019* and shot by [videospam3000](https://videospam3000.bandcamp.com/).
 
-## not live
+---
 
-<!---
+### Releases
 
-### Misunderstanding
-
-asdasdasd
-
-### °mm ↓m​:​°​,
-
-video of notation with synthesis
---->
-
-### Productions
-
-These are some works I have produced in collaboration with other artists.
+The following is a collection of works I have produced in collaboration with other artists.
 
 #### °mm ↓m​:​°​,
 
