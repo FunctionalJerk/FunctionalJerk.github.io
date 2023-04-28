@@ -15,7 +15,8 @@ This site launched just recently and a good amount of projects and general infor
 I'm David Hanraths, 33yo he/him, Germany/NRW based student of Music with an obsession on the aesthetic aspects of digital and acoustic spaces.  
 With an emphasis on music informatics, I completed my bachelor's degree (BMus) in September 2022 at *Institute for Music and Media* in Düsseldorf, Germany. 
 
-I'm always looking for new adventures and challenges, so if you like what you see on this page, don't hesitate to get in contact through one of these channels:  
+Right now, I'm looking for new adventures and challenges. 
+If you like what you see on this page, don't hesitate to get in contact through one of these channels:  
 - [**github**](https:github.com/{{site.github_username}})  
 - [**bandcamp**](https://davidhanraths.bandcamp.com)  
 - [**mail**](mailto:d.hanraths(at)web.de)  

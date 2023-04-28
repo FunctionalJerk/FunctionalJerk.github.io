@@ -28,31 +28,31 @@ The project will soon be available on GitHub. Meanwhile, you'll have to settle f
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/col.png)
 
-*Visualization of F0-data through R-intonation*
+*Visualization of F0-data through R-intonation, showing the intonation (intentionally without scale).*
 
 ---
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/friend.png)
 
-*Collection of utterances performed by a good friend, visualized through R-intonation*
+*Collection of utterances performed by a good friend, visualized through R-intonation.*
 
 ---
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/pyin.png)
 
-*Mel-spectrogram with librosa.pyin, showing spectral content of an utterance*
+*Mel-spectrogram with librosa.pyin, showing spectral content of an utterance.*
 
 ---
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/F0.png)
 
-*Visualization of F0 with librosa.pyin, showing the intonation of an utterance*
+*Visualization of F0 with librosa.pyin, showing the F0-contour of an utterance.*
 
 ---
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/richvis.png)
 
-*Richvisualization through R-intonation*
+*Richvisualization through R-intonation showing waveform, F0-contour and spectrogram.*
 
 
 <!--- [GitHub-repostitory](https://github.com/FunctionalJerk/audio-DataMining) --->

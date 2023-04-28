@@ -8,7 +8,7 @@ permalink: /media
 <br>
 
 
-### live
+## live
 
 Here's a list of live performances I did or collaborated on.
 
@@ -94,7 +94,7 @@ Kindly presented by *Econore X Museum Abteiberg on June 20th, 2019* and shot by 
 
 ---
 
-### Releases
+## Releases
 
 The following is a collection of works I have produced in collaboration with other artists.
 
@@ -135,7 +135,7 @@ Visit [Hügelmann]() and check out more of their awesome work :)
 
 ---
 
-### Instruments
+## Instruments
 
 These are some of the user-interfaces I've created and experimented with.
 
