@@ -18,7 +18,7 @@ For further information, please refer to this project's [GitHub-repostitory](htt
 
 <!--- insert some basic description here --->
 
-## Related projects: 
+# Related projects: 
 
 - [Audio Data Mining]({{ site.url }}/projects/DataMining)
 - [°mm ↓m​:​°​,]({{ site.url }}/projects/mm-m)

@@ -34,7 +34,7 @@ feel free to send me an e-mail!
 <!--- Pictures ---> 
 
 
-## Related projects: 
+# Related projects: 
 
 - [Apotrop]({{ site.url }}/projects/Apotrop)
 
