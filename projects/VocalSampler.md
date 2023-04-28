@@ -5,7 +5,7 @@ title: 'VocalSampler'
 
 # tSNE-VocalSampler
 
-<video width="640" height="400" controls>
+<video width="100%" height="336" controls>
   <source src="{{ site.url }}/assets/vid/projects/{{page.title}}/demo.mp4" type="video/mp4">
 </video>  
 

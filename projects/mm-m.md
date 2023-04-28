@@ -14,9 +14,9 @@ title: mm-m
 
 *3-piece EP, released September 14, 2022*  
 
-**Jeff Burido** 	*Drums*  
-**Hügelmann** 		*Zither* and *No-Input-Mixer*  
-**David Hanraths**  	*Synthesis, Composition, Production*  
+**Jeff Burido** 	* - Drums*  
+**Hügelmann** 		* - Zither* and *No-Input-Mixer*  
+**David Hanraths**  	* - Synthesis, Composition, Production*  
 
 Within my bachelor thesis, I have developed a concept for transcribing those speech melodies that occur within everyday human interaction.  
 This EP documents my experiments on using this method as a form of relative and gradual musical notation.  

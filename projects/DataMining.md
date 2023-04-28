@@ -10,7 +10,7 @@ I first tried the python-library [librosa.pyin](https://librosa.org/doc/main/gen
 
 Building on the resulting data-set, I used some of the methods described in the instructions for using the [AudioTSNEViewer](https://ml4a.github.io/guides/AudioTSNEViewer/) by *Machine Learning for Artists*:
 
-<video width="640" height="400" controls>
+<video width="100%" height="336" controls>
   <source src="{{ site.url }}/assets/vid/projects/{{page.title}}/tsne.mp4" type="video/mp4">
 </video>  
 
