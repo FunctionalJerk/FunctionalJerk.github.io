@@ -84,7 +84,7 @@ The data was sourced in a prior project, which aimed to collect variations of hu
 
 <p>I first tried the python-library <em>librosa.pyin<sup id="fnref:pyin" role="doc-noteref"><a href="#fn:pyin" class="footnote" rel="footnote">1</a></sup></em>, but ended up using the package <em>intonation<sup id="fnref:inton" role="doc-noteref"><a href="#fn:inton" class="footnote" rel="footnote">2</a></sup></em> for the <em>R-programming-language<sup id="fnref:cran" role="doc-noteref"><a href="#fn:cran" class="footnote" rel="footnote">3</a></sup></em> to extract and visualize these melodies.</p>
 
-<p>Building on the resulting audio library, I realised my own version of the <em>AudioTSNEViewer<sup id="fnref:atv" role="doc-noteref"><a href="#fn:atv" class="footnote" rel="footnote">4</a></sup></em> by <em>Machine Learning for Artists</em>:</p>
+<p>Building on the same audio library, I realised my own version of the <em>AudioTSNEViewer<sup id="fnref:atv" role="doc-noteref"><a href="#fn:atv" class="footnote" rel="footnote">4</a></sup></em> by <em>Machine Learning for Artists</em>:</p>
 
 <video width="100%" height="336" controls="">
   <source src="http://localhost:4000/assets/vid/projects/DataMining/tsne.mp4" type="video/mp4" />
@@ -92,12 +92,10 @@ The data was sourced in a prior project, which aimed to collect variations of hu
 
 <p><a href="http://localhost:4000/projects/VocalSampler">Visit the tSNE Vocal Sampler</a> and <a href="http://localhost:4000/projects/mm-m">listen to °mm ↓m​:​°​,</a> to get an idea of how to use this data to generate algorithmic scores and synthesize sound.</p>
 
-<!--- [SuperCollider](https://supercollider.github.io/). --->
-
 <h2 id="todo">Todo</h2>
 
 <p>There’s a lot still to explore here. 
-The python-script that was used to create the t-SNE plot looks for similarities in harmonic content. 
+The python-script that was used to create the <em>t-SNE plot<sup id="fnref:tsne" role="doc-noteref"><a href="#fn:tsne" class="footnote" rel="footnote">5</a></sup></em> looks for similarities in harmonic content. 
 To apply it to my proposal for relative vocal harmony, each sample needs to be put in relation to it’s speakers vocal range. 
 I will try and rewrite th, so that it compares the samples actual intonation</p>
 
@@ -115,6 +113,9 @@ I will try and rewrite th, so that it compares the samples actual intonation</p>
     </li>
     <li id="fn:atv" role="doc-endnote">
       <p><a href="https://ml4a.github.io/guides/AudioTSNEViewer/">ml4a.github.io/guides/AudioTSNEViewer</a> <a href="#fnref:atv" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:tsne" role="doc-endnote">
+      <p><a href="https://medium.com/analytics-vidhya/what-is-t-sne-37bfb920e431">medium.com/analytics-vidhya/what-is-t-sne</a> <a href="#fnref:tsne" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>

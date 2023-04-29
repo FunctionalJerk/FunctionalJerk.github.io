@@ -10,7 +10,7 @@ The data was sourced in a prior project, which aimed to collect variations of hu
 
 I first tried the python-library *librosa.pyin[^pyin]*, but ended up using the package *intonation[^inton]* for the *R-programming-language[^cran]* to extract and visualize these melodies.  
 
-Building on the resulting audio library, I realised my own version of the *AudioTSNEViewer[^atv]* by *Machine Learning for Artists*:
+Building on the same audio library, I realised my own version of the *AudioTSNEViewer[^atv]* by *Machine Learning for Artists*:
 
 <video width="100%" height="336" controls>
   <source src="{{ site.url }}/assets/vid/projects/{{page.title}}/tsne.mp4" type="video/mp4">
@@ -18,12 +18,10 @@ Building on the resulting audio library, I realised my own version of the *Audio
 
 [Visit the tSNE Vocal Sampler]({{ site.url }}/projects/VocalSampler) and [listen to °mm ↓m​:​°​,]({{ site.url }}/projects/mm-m) to get an idea of how to use this data to generate algorithmic scores and synthesize sound. 
 
-<!--- [SuperCollider](https://supercollider.github.io/). --->
-
 ## Todo
 
 There's a lot still to explore here. 
-The python-script that was used to create the t-SNE plot looks for similarities in harmonic content. 
+The python-script that was used to create the *t-SNE plot[^tsne]* looks for similarities in harmonic content. 
 To apply it to my proposal for relative vocal harmony, each sample needs to be put in relation to it's speakers vocal range. 
 I will try and rewrite th, so that it compares the samples actual intonation
 
@@ -35,6 +33,7 @@ I will try and rewrite th, so that it compares the samples actual intonation
 [^inton]: [github.com/usagi5886/intonation](https://github.com/usagi5886/intonation)
 [^cran]: [r-project.org](https://www.r-project.org/)
 [^atv]: [ml4a.github.io/guides/AudioTSNEViewer](https://ml4a.github.io/guides/AudioTSNEViewer/)
+[^tsne]: [medium.com/analytics-vidhya/what-is-t-sne](https://medium.com/analytics-vidhya/what-is-t-sne-37bfb920e431)
 
 ## Plots and Visualizations
 

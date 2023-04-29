@@ -17,7 +17,7 @@ It would serve as a makeshift reverb-device, aswell as an Input source for the a
 
 
 
-The other is a granular synth, programmed in SuperCollider that's running on a *BeagleBone Black*[^bbb].
+The other is a granular synth, programmed in SuperCollider that's running on a *BeagleBone Black*.
 It takes audio input and - on the press of a button - stores it in a buffer.   
 This audio data is then rearranged in adjustable patterns, rates and various other parameters.  
 I will upload a detailed build-documentation to GitHub shortly, but here's a list of it's current features:
@@ -32,8 +32,6 @@ I will upload a detailed build-documentation to GitHub shortly, but here's a lis
 ---
 * footnotes will be placed here
 {:footnotes}
-
-[^bbb]: SBC by Beaglebone
 
 # Related projects: 
 
