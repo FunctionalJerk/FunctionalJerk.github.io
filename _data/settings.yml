@@ -15,7 +15,6 @@ projects:
 - {name: '°mm ↓m​:​°​,',   url: 'mm-m'}
 - {name: 'tSNE-VocalSampler',   url: 'VocalSampler'}
 - {name: 'Audio Data Mining', url: 'DataMining'}
-- {name: 'Apotrop',  url: 'Apotrop'}
 #- {name: 'Bela-Synth',  url: 'Synth'}
 
 #-------------------------------
