@@ -84,10 +84,9 @@ I was honored to do the audio-programming for this multimedia piece by contempor
 	frameborder="2"
 	allow="autoplay; encrypted-media"
     	allowfullscreen
->
-</iframe>
+></iframe>
 
-This was my first live-coding performance, where I used filtered feedback and telegram voicemails, arranged in a playable pseudo-radio.
+This was my first live-coding performance, where I used filtered feedback and telegram voicemails, arranged in a playable pseudo-radio.  
 Kindly presented by *Econore X Museum Abteiberg on June 20th, 2019* and shot by [videospam3000](https://videospam3000.bandcamp.com/).
 
 ---
