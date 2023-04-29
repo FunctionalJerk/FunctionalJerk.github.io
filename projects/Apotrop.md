@@ -5,7 +5,7 @@ title: 'Apotrop'
 
 # Apotrop
 
-*generative 4-channel installation*
+*generative 4-channel installation*  
 *preseted @ Art Artist Düsseldorf[^art] from March 31. until April 02. 2023* 
 
 *coming soon!*
