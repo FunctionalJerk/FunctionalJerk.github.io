@@ -20,6 +20,13 @@ Building on the resulting audio library, I realised my own version of the *Audio
 
 <!--- [SuperCollider](https://supercollider.github.io/). --->
 
+## Todo
+
+There's a lot still to explore here. 
+The python-script that was used to create the t-SNE plot looks for similarities in harmonic content. 
+To apply it to my proposal for relative vocal harmony, each sample needs to be put in relation to it's speakers vocal range. 
+I will try and rewrite th, so that it compares the samples actual intonation
+
 ---
 * nessecary line
 {:footnotes}
@@ -35,7 +42,7 @@ The project will soon be available on GitHub. Meanwhile, you'll have to settle f
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/col.png)
 
-*Visualization of F0-data through R-intonation, showing the intonation (intentionally without scale).*
+*Visualization of F0-data through R-intonation, showing the intonation in personalised stylization.*
 
 ---
 
@@ -45,21 +52,9 @@ The project will soon be available on GitHub. Meanwhile, you'll have to settle f
 
 ---
 
-![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/pyin.png)
-
-*Mel-spectrogram with librosa.pyin, showing spectral content of an utterance.*
-
----
-
-![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/F0.png)
-
-*Visualization of F0 with librosa.pyin, showing the F0-contour of an utterance.*
-
----
-
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/richvis.png)
 
-*Richvisualization through R-intonation showing waveform, F0-contour and spectrogram.*
+*Richvisualization through R-intonation showing waveform, F0-contour and spectrogram in default configuration.*
 
 
 <!--- [GitHub-repostitory](https://github.com/FunctionalJerk/audio-DataMining) --->

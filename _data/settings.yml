@@ -10,9 +10,9 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'EsKannNichtAllesBlumeSein', url: 'Blume'}
 - {name: '°mm ↓m​:​°​,',   url: 'mm-m'}
 - {name: 'tSNE-VocalSampler',   url: 'VocalSampler'}
-- {name: 'EsKannNichtAllesBlumeSein', url: 'Blume'}
 - {name: 'Audio Data Mining', url: 'DataMining'}
 #- {name: 'Apotrop',  url: 'Apotrop'}
 #- {name: 'Bela-Synth',  url: 'Synth'}

@@ -19,8 +19,16 @@ title: mm-m
 **David Hanraths**  	* - Synthesis, Composition, Production*  
 
 Within my bachelor thesis, I have developed a concept for transcribing those speech melodies that occur within everyday human interaction.  
-This EP documents my experiments on using this method as a form of relative and gradual musical notation.  
+
+Harmony works different in verbal communication:  
+It's meaning can only be understood within the context of the speakers vocal range. Hence, one intonation can mean different things, depending on who vocalises it.  
+That's why my transcriptions don't use an absolute scale (Hz) but a relative one, defined by the vocal range of it's speaker.  
+One advantage of this approach is that it translates well onto any other gradual parameter of music. 
+
+This EP documents my experiments with this method.  
 Each piece represents an attempt to reconcile human improvisation with algorithmic composition.  
+
+*[vocal range]: also *ambitus* 
 
 ---
 * nessecary line
