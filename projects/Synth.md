@@ -11,9 +11,10 @@ One idea followed the next and the project grew pretty big.
 It is still an ongoing project with a long todo-list,
 but I want to present a functioning prototype to start out this documentation.
 
-At current state, there are basically two devices.
+At the time, there are basically two devices.
 One is a Zither, that was prepared with speakers and piezoelectric sensors. 
-It would serve as a makeshift reverb-device, aswell as an Input source for the actual synth.
+It would serve as a makeshift reverb-device, aswell as an Input source for the actual synth:
+
 
 
 

@@ -9,7 +9,8 @@ This project was was part of my bachelor studies in *Music and Media* at *Robert
 It was dedicated to the methods for extracting and comparing the *fundamental frequencies[^f0]*, that occur within inconspicuous areas of everyday human interaction.  
 The data was sourced in a prior project, which aimed to collect variations of human vocal melodies in interjections. This idea was strongly inspired by Gail Jefferson's writings on *Conversation Analysis and sociolinguistics[^ca]*.  
 
-I first tried the python-library *librosa.pyin[^pyin]*, but ended up using the package *intonation[^inton]* for the *R-programming-language[^cran]* to extract and visualize these melodies.  
+After doing some research, I ended up using the package *intonation[^inton]* for the *R-programming-language[^cran]* to extract and visualize these melodies.  
+These results would later be needed for [other projects]({{ site.github.url }}/projects/{{ page.title }}#related-projects) 
 
 Building on the same audio library, I realised my own version of the *AudioTSNEViewer[^atv]* by *Machine Learning for Artists*:
 
@@ -32,7 +33,6 @@ I will try and rewrite th, so that it compares the samples actual intonation
 
 [^f0]: [wikipedia.org/wiki/Fundamental_frequency](https://en.wikipedia.org/wiki/Fundamental_frequency)
 [^ca]: [wikipedia.org/wiki/Conversation_analysis](https://en.wikipedia.org/wiki/Conversation_analysis)
-[^pyin]: [librosa.org/pyin](https://librosa.org/doc/main/generated/librosa.pyin.html)
 [^inton]: [github.com/usagi5886/intonation](https://github.com/usagi5886/intonation)
 [^cran]: [r-project.org](https://www.r-project.org/)
 [^atv]: [ml4a.github.io/guides/AudioTSNEViewer](https://ml4a.github.io/guides/AudioTSNEViewer/)
@@ -61,6 +61,6 @@ The project will soon be available on GitHub. Meanwhile, you'll have to settle f
 
 <!--- [GitHub-repostitory](https://github.com/FunctionalJerk/audio-DataMining) --->
 
-## Related projects 
+# Related projects 
 - [VocalSampler]({{ site.url }}/projects/VocalSampler)
 - [°mm ↓m​:​°​,]({{ site.url }}/projects/mm-m)

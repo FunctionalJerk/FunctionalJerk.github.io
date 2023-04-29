@@ -13,7 +13,7 @@ title: 'Apotrop'
 # Pictures
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/ctl.jpg)
-Check out this custom serial controller [on GitHub](https://github.com/FunctionalJerk/SuperCollider-SerialCtl), 
+Check out this custom serial controller [on GitHub](https://github.com/FunctionalJerk/SuperCollider-SerialCtl)
 that i build in order to manually control this installation.
 
 ---

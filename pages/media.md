@@ -60,7 +60,6 @@ Visit Toplap-Düsseldorf on [Twitter](https://twitter.com/ToplapD), [Facebook](h
 
 I will try to have this embedded, meanwhile you can [watch it on YouTube](https://www.youtube.com/watch?v=d6bMp0vQqq4&t=378s).  
 
-<!---
 #### Yasuko Yui - Your Data
 
 <iframe 
@@ -72,9 +71,8 @@ I will try to have this embedded, meanwhile you can [watch it on YouTube](https:
 	allow="autoplay; encrypted-media"
 	allowfullscreen
 ></iframe>
-
-I was honored to do the audio-programming for this multimedia piece by composer [Yasuko Yui](http://y-yui.eu/yui/Home.html).
---->
+*presented @ Jazzschmiede Düsseldorf, sometime around the end of 2020*  
+I was honored to do the audio-programming for this multimedia piece by contemporary composer [Yasuko Yui](http://y-yui.eu/yui/Home.html).
 
 #### Econore X Museum Abteiberg Mönchengladbach 20.06.2019
 
@@ -96,7 +94,7 @@ Kindly presented by *Econore X Museum Abteiberg on June 20th, 2019* and shot by 
 
 ## Releases
 
-The following is a collection of works I have produced in collaboration with other artists.
+The following is a collection of works I have produced alone or in collaboration with other artists.
 
 #### °mm ↓m​:​°​,
 
@@ -156,7 +154,6 @@ Visit the [project page]({{ site.github.url }}/projects/VocalSampler) for more i
 </video>  
 
 Visit the [project page]({{ site.github.url }}/projects/DataMining) for more information.
-Also see [AudioTSNEViewer](https://ml4a.github.io/guides/AudioTSNEViewer/).
 
 
 ---
