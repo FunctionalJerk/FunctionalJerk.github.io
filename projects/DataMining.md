@@ -5,8 +5,9 @@ title: 'DataMining'
 
 # Audio Data Mining
 
-This project was was part of my bachelor studies in *Music and Media* at *Robert-Schumann-Hochschule Düsseldorf* and was dedicated to the methods for analyzing the speech melodies (F0) that occur in everyday human interaction.  
-The data was sourced in a prior project, which aimed to collect variations of human vocal melodies in interjections. This idea was strongly inspired by Gail Jefferson's writings on Conversation Analysis.  
+This project was was part of my bachelor studies in *Music and Media* at *Robert-Schumann-Hochschule Düsseldorf*.  
+It was dedicated to the methods for extracting and comparing the *fundamental frequencies[^f0]*, that occur within inconspicuous areas of everyday human interaction.  
+The data was sourced in a prior project, which aimed to collect variations of human vocal melodies in interjections. This idea was strongly inspired by Gail Jefferson's writings on *Conversation Analysis and sociolinguistics[^ca]*.  
 
 I first tried the python-library *librosa.pyin[^pyin]*, but ended up using the package *intonation[^inton]* for the *R-programming-language[^cran]* to extract and visualize these melodies.  
 
@@ -29,6 +30,8 @@ I will try and rewrite th, so that it compares the samples actual intonation
 * nessecary line
 {:footnotes}
 
+[^f0]: [wikipedia.org/wiki/Fundamental_frequency](https://en.wikipedia.org/wiki/Fundamental_frequency)
+[^ca]: [wikipedia.org/wiki/Conversation_analysis](https://en.wikipedia.org/wiki/Conversation_analysis)
 [^pyin]: [librosa.org/pyin](https://librosa.org/doc/main/generated/librosa.pyin.html)
 [^inton]: [github.com/usagi5886/intonation](https://github.com/usagi5886/intonation)
 [^cran]: [r-project.org](https://www.r-project.org/)

@@ -79,12 +79,13 @@
     <p></p>
     <div class="project-load"><h1 id="audio-data-mining">Audio Data Mining</h1>
 
-<p>This project was was part of my bachelor studies in <em>Music and Media</em> at <em>Robert-Schumann-Hochschule Düsseldorf</em> and was dedicated to the methods for analyzing the speech melodies (F0) that occur in everyday human interaction.<br />
-The data was sourced in a prior project, which aimed to collect variations of human vocal melodies in interjections. This idea was strongly inspired by Gail Jefferson’s writings on Conversation Analysis.</p>
+<p>This project was was part of my bachelor studies in <em>Music and Media</em> at <em>Robert-Schumann-Hochschule Düsseldorf</em>.<br />
+It was dedicated to the methods for extracting and comparing the <em>fundamental frequencies<sup id="fnref:f0" role="doc-noteref"><a href="#fn:f0" class="footnote" rel="footnote">1</a></sup></em>, that occur within inconspicuous areas of everyday human interaction.<br />
+The data was sourced in a prior project, which aimed to collect variations of human vocal melodies in interjections. This idea was strongly inspired by Gail Jefferson’s writings on <em>Conversation Analysis and sociolinguistics<sup id="fnref:ca" role="doc-noteref"><a href="#fn:ca" class="footnote" rel="footnote">2</a></sup></em>.</p>
 
-<p>I first tried the python-library <em>librosa.pyin<sup id="fnref:pyin" role="doc-noteref"><a href="#fn:pyin" class="footnote" rel="footnote">1</a></sup></em>, but ended up using the package <em>intonation<sup id="fnref:inton" role="doc-noteref"><a href="#fn:inton" class="footnote" rel="footnote">2</a></sup></em> for the <em>R-programming-language<sup id="fnref:cran" role="doc-noteref"><a href="#fn:cran" class="footnote" rel="footnote">3</a></sup></em> to extract and visualize these melodies.</p>
+<p>I first tried the python-library <em>librosa.pyin<sup id="fnref:pyin" role="doc-noteref"><a href="#fn:pyin" class="footnote" rel="footnote">3</a></sup></em>, but ended up using the package <em>intonation<sup id="fnref:inton" role="doc-noteref"><a href="#fn:inton" class="footnote" rel="footnote">4</a></sup></em> for the <em>R-programming-language<sup id="fnref:cran" role="doc-noteref"><a href="#fn:cran" class="footnote" rel="footnote">5</a></sup></em> to extract and visualize these melodies.</p>
 
-<p>Building on the same audio library, I realised my own version of the <em>AudioTSNEViewer<sup id="fnref:atv" role="doc-noteref"><a href="#fn:atv" class="footnote" rel="footnote">4</a></sup></em> by <em>Machine Learning for Artists</em>:</p>
+<p>Building on the same audio library, I realised my own version of the <em>AudioTSNEViewer<sup id="fnref:atv" role="doc-noteref"><a href="#fn:atv" class="footnote" rel="footnote">6</a></sup></em> by <em>Machine Learning for Artists</em>:</p>
 
 <video width="100%" height="336" controls="">
   <source src="http://localhost:4000/assets/vid/projects/DataMining/tsne.mp4" type="video/mp4" />
@@ -95,13 +96,19 @@ The data was sourced in a prior project, which aimed to collect variations of hu
 <h2 id="todo">Todo</h2>
 
 <p>There’s a lot still to explore here. 
-The python-script that was used to create the <em>t-SNE plot<sup id="fnref:tsne" role="doc-noteref"><a href="#fn:tsne" class="footnote" rel="footnote">5</a></sup></em> looks for similarities in harmonic content. 
+The python-script that was used to create the <em>t-SNE plot<sup id="fnref:tsne" role="doc-noteref"><a href="#fn:tsne" class="footnote" rel="footnote">7</a></sup></em> looks for similarities in harmonic content. 
 To apply it to my proposal for relative vocal harmony, each sample needs to be put in relation to it’s speakers vocal range. 
 I will try and rewrite th, so that it compares the samples actual intonation</p>
 
 <hr />
 <div class="footnotes" role="doc-endnotes">
   <ol>
+    <li id="fn:f0" role="doc-endnote">
+      <p><a href="https://en.wikipedia.org/wiki/Fundamental_frequency">wikipedia.org/wiki/Fundamental_frequency</a> <a href="#fnref:f0" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:ca" role="doc-endnote">
+      <p><a href="https://en.wikipedia.org/wiki/Conversation_analysis">wikipedia.org/wiki/Conversation_analysis</a> <a href="#fnref:ca" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
     <li id="fn:pyin" role="doc-endnote">
       <p><a href="https://librosa.org/doc/main/generated/librosa.pyin.html">librosa.org/pyin</a> <a href="#fnref:pyin" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
