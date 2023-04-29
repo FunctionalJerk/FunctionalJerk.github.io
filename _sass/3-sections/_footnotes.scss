@@ -1,5 +1,5 @@
 a.footnote:before {   
-	margin: 10px, 10px, 10px, 10px;
+	margin: 10px;
 }
 
 a.footnote:after {
@@ -8,7 +8,7 @@ a.footnote:after {
 
 [class|="footnotes"] {
 	border-bottom: none;
-	line-height: 0.6;
+	line-height: 0.5;
 	/* color: 00000; */
 }
 

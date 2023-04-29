@@ -668,23 +668,23 @@ hr {
 /* Links
  * ------------------------------------	*/
 a {
-  color: #c99065;
+  color: #2e7ff3;
   text-decoration: none;
   outline: 0;
 }
 
 a:hover, a:focus {
-  color: #e3c6b1;
+  color: #8ebaf9;
 }
 
 /* Selection colors (easy to forget)
  * ------------------------------------	*/
 ::selection {
-  background: #f1e2d6;
+  background: #bfd8fb;
 }
 
 ::-moz-selection {
-  background: #f1e2d6;
+  background: #bfd8fb;
 }
 
 img::selection {
@@ -696,7 +696,7 @@ img::-moz-selection {
 }
 
 body {
-  -webkit-tap-highlight-color: #f1e2d6;
+  -webkit-tap-highlight-color: #bfd8fb;
 }
 
 /* Basic Styles
@@ -717,7 +717,7 @@ svg {
 }
 
 h3 {
-  color: #e1c285;
+  color: #5a77ff;
   text-align: center;
   padding: 100px 0 30px;
 }
@@ -738,7 +738,7 @@ section:nth-child(odd) {
   padding-bottom: 100px;
 }
 section:nth-child(odd) h3 {
-  color: #d7ae5c;
+  color: #274dff;
 }
 
 h3 {
@@ -1007,12 +1007,12 @@ body {
 }
 
 a.footnote:before {
-  margin: 10px, 10px, 10px, 10px;
+  margin: 10px;
 }
 
 [class|=footnotes] {
   border-bottom: none;
-  line-height: 0.6;
+  line-height: 0.5;
   /* color: 00000; */
 }
 

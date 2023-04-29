@@ -11,7 +11,7 @@ title: 'EsKannNichtAllesBlumeSein'
 **Lennart Posch** - *text and composition*  
 **David Hanraths** - *arrangement and production*  
 
-*Audio recording will be uploaded shortly!*
+*Audio recording and pictures will be uploaded shortly!*
 
 *We are caught in the eternal challenge to reconstruct intentions and create meaning from interaction.
 Hiding among the melodies we speak or dream, the Nature of these intentions remains incomprehensable.*
@@ -21,8 +21,8 @@ This work explores the abstact ambiguity of parasemantic sign systems within the
 It utilizes field-recordings, private voice messages sourced through the *signal-media-exporter[^sme]*, 
 aswell as original speech composed by Lennart Posch, that was performed by himself and Maral Sedighi.
 
-I programmed a fixed form, composed of generative parts within the SuperCollider programming language.
-This Routine ran on a *Raspberry-Pi 4B* equipped with *Prynth[^prynth]* and connected to a *RME Fireface UCX+*.  
+Going by Lennart's composition, I programmed a fixed form that consists of a set of generative parts.
+This Routine ran on a *Raspberry-Pi 4B* equipped with *Prynth[^prynth]*.  
 
 <!--- The file linked here represents one of possibly infinite variations of this generative piece and is rendered in stereo. --->
 
