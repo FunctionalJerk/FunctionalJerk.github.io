@@ -6,33 +6,42 @@ title: 'Synth'
 # Bela-Synth
 
 Combining the functioning principles of plate-reverbs and recent experiences with piezoelectric sensors,
-I came up with the idea to build a reverb-machine from some kind of string instrument.
+I came up with the idea to build a reverb-machine from some kind of stringed instrument.
+
 One idea followed the next and the project grew pretty big. 
-It is still an ongoing project with a long todo-list,
-but I want to present a functioning prototype to start out this documentation.
+It is still ongoing with a long todo-list,
+but I want to present a functioning prototype to start out this documentation nonetheless.  
+Here's a short demo: 
 
-At the time, there are basically two devices.
-One is a Zither, that was prepared with speakers and piezoelectric sensors. 
-It would serve as a makeshift reverb-device, aswell as an Input source for the actual synth:
+<video width="100%" height="336" controls>
+  <source src="{{ site.url }}/assets/vid/projects/{{page.title}}/demo.mp4" type="video/mp4">
+</video>  
 
+At current time, there are basically two devices:
+1. : A Zither, that was prepared with speakers and piezoelectric sensors.  
+It serves as a makeshift reverb-device, aswell as an input source for the actual synth.
+2. : A granular synth, programmed in *SuperCollider[^sc]* and running on a *BeagleBone Black*, equipped with a *Bela-Cape[^bela]*.  
+It takes audio input and stores it in a buffer on the press of a button.   
+The recorded audio is then rearranged in adjustable patterns, rates and various other parameters.  
 
+Here's a short list of it's current features:
 
-
-The other is a granular synth, programmed in SuperCollider that's running on a *BeagleBone Black*.
-It takes audio input and - on the press of a button - stores it in a buffer.   
-This audio data is then rearranged in adjustable patterns, rates and various other parameters.  
-I will upload a detailed build-documentation to GitHub shortly, but here's a list of it's current features:
-<!--- For detailed build-documentation, check out this project's [GitHub-repository](). --->
 - stereo i/o
 - presets
 - MIDI-input
-- three controls with value-pickup
+- three assignable faders with value-pickup
 - rotary encoder
 - trigger button
+
+I will upload a detailed build-documentation to [GitHub](https://github.com/FunctionalJerk/bela-grainsynth) shortly.
+As of now, there's only source Code to be found there. 
 
 ---
 * footnotes will be placed here
 {:footnotes}
+
+[^sc]: [supercollider.github.io](https://supercollider.github.io/)
+[^bela]: [eu.shop.bela.io](https://eu.shop.bela.io/collections/bela-and-bela-mini/products/bela-cape)
 
 # Related projects: 
 

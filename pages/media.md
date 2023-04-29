@@ -71,7 +71,7 @@ I will try to have this embedded, meanwhile you can [watch it on YouTube](https:
 	allow="autoplay; encrypted-media"
 	allowfullscreen
 ></iframe>
-*presented @ Jazzschmiede Düsseldorf, sometime around the end of 2020*  
+*presented @ Jazzschmiede Düsseldorf, October 25th 2020*  
 I was honored to do the audio-programming for this multimedia piece by contemporary composer [Yasuko Yui](http://y-yui.eu/yui/Home.html).
 
 #### Econore X Museum Abteiberg Mönchengladbach 20.06.2019

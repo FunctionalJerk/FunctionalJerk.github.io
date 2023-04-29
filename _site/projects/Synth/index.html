@@ -80,30 +80,51 @@
     <div class="project-load"><h1 id="bela-synth">Bela-Synth</h1>
 
 <p>Combining the functioning principles of plate-reverbs and recent experiences with piezoelectric sensors,
-I came up with the idea to build a reverb-machine from some kind of string instrument.
-One idea followed the next and the project grew pretty big. 
-It is still an ongoing project with a long todo-list,
-but I want to present a functioning prototype to start out this documentation.</p>
+I came up with the idea to build a reverb-machine from some kind of stringed instrument.</p>
 
-<p>At current state, there are basically two devices.
-One is a Zither, that was prepared with speakers and piezoelectric sensors. 
-It would serve as a makeshift reverb-device, aswell as an Input source for the actual synth.</p>
+<p>One idea followed the next and the project grew pretty big. 
+It is still ongoing with a long todo-list,
+but I want to present a functioning prototype to start out this documentation nonetheless.<br />
+Here’s a short demo:</p>
 
-<p>The other is a granular synth, programmed in SuperCollider that’s running on a <em>BeagleBone Black</em>.
-It takes audio input and - on the press of a button - stores it in a buffer. <br />
-This audio data is then rearranged in adjustable patterns, rates and various other parameters.<br />
-I will upload a detailed build-documentation to GitHub shortly, but here’s a list of it’s current features:
-<!--- For detailed build-documentation, check out this project's [GitHub-repository](). ---></p>
+<video width="100%" height="336" controls="">
+  <source src="http://localhost:4000/assets/vid/projects/Synth/demo.mp4" type="video/mp4" />
+</video>
+
+<p>At current time, there are basically two devices:</p>
+<ol>
+  <li>: A Zither, that was prepared with speakers and piezoelectric sensors.<br />
+It serves as a makeshift reverb-device, aswell as an input source for the actual synth.</li>
+  <li>: A granular synth, programmed in <em>SuperCollider<sup id="fnref:sc" role="doc-noteref"><a href="#fn:sc" class="footnote" rel="footnote">1</a></sup></em> and running on a <em>BeagleBone Black</em>, equipped with a <em>Bela-Cape<sup id="fnref:bela" role="doc-noteref"><a href="#fn:bela" class="footnote" rel="footnote">2</a></sup></em>.<br />
+It takes audio input and stores it in a buffer on the press of a button. <br />
+The recorded audio is then rearranged in adjustable patterns, rates and various other parameters.</li>
+</ol>
+
+<p>Here’s a short list of it’s current features:</p>
+
 <ul>
   <li>stereo i/o</li>
   <li>presets</li>
   <li>MIDI-input</li>
-  <li>three controls with value-pickup</li>
+  <li>three assignable faders with value-pickup</li>
   <li>rotary encoder</li>
   <li>trigger button</li>
 </ul>
 
+<p>I will upload a detailed build-documentation to <a href="https://github.com/FunctionalJerk/bela-grainsynth">GitHub</a> shortly.
+As of now, there’s only source Code to be found there.</p>
+
 <hr />
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:sc" role="doc-endnote">
+      <p><a href="https://supercollider.github.io/">supercollider.github.io</a> <a href="#fnref:sc" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:bela" role="doc-endnote">
+      <p><a href="https://eu.shop.bela.io/collections/bela-and-bela-mini/products/bela-cape">eu.shop.bela.io</a> <a href="#fnref:bela" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
 <h1 id="related-projects">Related projects:</h1>
 

@@ -83,9 +83,10 @@
 It was dedicated to the methods for extracting and comparing the <em>fundamental frequencies<sup id="fnref:f0" role="doc-noteref"><a href="#fn:f0" class="footnote" rel="footnote">1</a></sup></em>, that occur within inconspicuous areas of everyday human interaction.<br />
 The data was sourced in a prior project, which aimed to collect variations of human vocal melodies in interjections. This idea was strongly inspired by Gail Jefferson’s writings on <em>Conversation Analysis and sociolinguistics<sup id="fnref:ca" role="doc-noteref"><a href="#fn:ca" class="footnote" rel="footnote">2</a></sup></em>.</p>
 
-<p>I first tried the python-library <em>librosa.pyin<sup id="fnref:pyin" role="doc-noteref"><a href="#fn:pyin" class="footnote" rel="footnote">3</a></sup></em>, but ended up using the package <em>intonation<sup id="fnref:inton" role="doc-noteref"><a href="#fn:inton" class="footnote" rel="footnote">4</a></sup></em> for the <em>R-programming-language<sup id="fnref:cran" role="doc-noteref"><a href="#fn:cran" class="footnote" rel="footnote">5</a></sup></em> to extract and visualize these melodies.</p>
+<p>After doing some research, I ended up using the package <em>intonation<sup id="fnref:inton" role="doc-noteref"><a href="#fn:inton" class="footnote" rel="footnote">3</a></sup></em> for the <em>R-programming-language<sup id="fnref:cran" role="doc-noteref"><a href="#fn:cran" class="footnote" rel="footnote">4</a></sup></em> to extract and visualize these melodies.<br />
+These results would later be needed for <a href="/projects/DataMining#related-projects">other projects</a></p>
 
-<p>Building on the same audio library, I realised my own version of the <em>AudioTSNEViewer<sup id="fnref:atv" role="doc-noteref"><a href="#fn:atv" class="footnote" rel="footnote">6</a></sup></em> by <em>Machine Learning for Artists</em>:</p>
+<p>Building on the same audio library, I realised my own version of the <em>AudioTSNEViewer<sup id="fnref:atv" role="doc-noteref"><a href="#fn:atv" class="footnote" rel="footnote">5</a></sup></em> by <em>Machine Learning for Artists</em>:</p>
 
 <video width="100%" height="336" controls="">
   <source src="http://localhost:4000/assets/vid/projects/DataMining/tsne.mp4" type="video/mp4" />
@@ -96,7 +97,7 @@ The data was sourced in a prior project, which aimed to collect variations of hu
 <h2 id="todo">Todo</h2>
 
 <p>There’s a lot still to explore here. 
-The python-script that was used to create the <em>t-SNE plot<sup id="fnref:tsne" role="doc-noteref"><a href="#fn:tsne" class="footnote" rel="footnote">7</a></sup></em> looks for similarities in harmonic content. 
+The python-script that was used to create the <em>t-SNE plot<sup id="fnref:tsne" role="doc-noteref"><a href="#fn:tsne" class="footnote" rel="footnote">6</a></sup></em> looks for similarities in harmonic content. 
 To apply it to my proposal for relative vocal harmony, each sample needs to be put in relation to it’s speakers vocal range. 
 I will try and rewrite th, so that it compares the samples actual intonation</p>
 
@@ -108,9 +109,6 @@ I will try and rewrite th, so that it compares the samples actual intonation</p>
     </li>
     <li id="fn:ca" role="doc-endnote">
       <p><a href="https://en.wikipedia.org/wiki/Conversation_analysis">wikipedia.org/wiki/Conversation_analysis</a> <a href="#fnref:ca" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:pyin" role="doc-endnote">
-      <p><a href="https://librosa.org/doc/main/generated/librosa.pyin.html">librosa.org/pyin</a> <a href="#fnref:pyin" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
     <li id="fn:inton" role="doc-endnote">
       <p><a href="https://github.com/usagi5886/intonation">github.com/usagi5886/intonation</a> <a href="#fnref:inton" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
@@ -149,7 +147,7 @@ I will try and rewrite th, so that it compares the samples actual intonation</p>
 
 <!--- [GitHub-repostitory](https://github.com/FunctionalJerk/audio-DataMining) --->
 
-<h2 id="related-projects">Related projects</h2>
+<h1 id="related-projects">Related projects</h1>
 <ul>
   <li><a href="http://localhost:4000/projects/VocalSampler">VocalSampler</a></li>
   <li><a href="http://localhost:4000/projects/mm-m">°mm ↓m​:​°​,</a></li>

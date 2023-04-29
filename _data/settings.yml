@@ -11,11 +11,11 @@ menu:
 
 projects:
 - {name: 'Apotrop',  url: 'Apotrop'}
+- {name: 'Bela-Synth',  url: 'Synth'}
 - {name: 'EsKannNichtAllesBlumeSein', url: 'Blume'}
 - {name: '°mm ↓m​:​°​,',   url: 'mm-m'}
 - {name: 'tSNE-VocalSampler',   url: 'VocalSampler'}
 - {name: 'Audio Data Mining', url: 'DataMining'}
-#- {name: 'Bela-Synth',  url: 'Synth'}
 
 #-------------------------------
 # Contact Section
