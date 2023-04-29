@@ -4,13 +4,13 @@
 <loc>http://localhost:4000/projects/Apotrop/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/Bela-Synth/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/projects/Blume/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/projects/DataMining/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/projects/Synth/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/projects/VocalSampler/</loc>

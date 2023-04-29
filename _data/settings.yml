@@ -15,7 +15,7 @@ projects:
 - {name: 'EsKannNichtAllesBlumeSein', url: 'Blume'}
 - {name: 'Audio Data Mining', url: 'DataMining'}
 #- {name: 'Apotrop',  url: 'Apotrop'}
-#- {name: 'Bela-Synth',  url: 'synth'}
+#- {name: 'Bela-Synth',  url: 'Synth'}
 
 #-------------------------------
 # Contact Section
