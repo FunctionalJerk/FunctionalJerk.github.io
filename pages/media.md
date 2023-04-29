@@ -56,7 +56,7 @@ Visit [Die Digitale](https://die-digitale.net) and Toplap-Düsseldorf on [Twitte
 ></iframe>
 
 My first and only streaming gig, kindly provided by Toplap Düsseldorf.
-Visit Toplap-Düsseldorf on [Twitter](https://twitter.com/ToplapD) or [Facebook](https://www.facebook.com/ToplapD/).  
+Visit Toplap-Düsseldorf on [Twitter](https://twitter.com/ToplapD), [Facebook](https://www.facebook.com/ToplapD/) or [YouTube](https://www.youtube.com/@toplapddorf)!  
 
 I will try to have this embedded, meanwhile you can [watch it on YouTube](https://www.youtube.com/watch?v=d6bMp0vQqq4&t=378s).  
 

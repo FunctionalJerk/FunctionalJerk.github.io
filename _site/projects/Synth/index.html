@@ -79,12 +79,38 @@
     <p></p>
     <div class="project-load"><h1 id="bela-synth">Bela-Synth</h1>
 
-<p>Inspired by the functioning principles of a plate-reverb and recent experiences with piezoelectric 
-For the longest time, I wanted to build some kind of Reverb
-Dies ist eine Projektarbeit, die im Rahmen des Bachelor-Abschluss <em>Musik und Medien</em> an der Robert-Schumann-Hochschule Düsseldorf durchgeführt wurde.
-Darin versuchte ich mir Methoden zur Gewinnung von Metadaten aus einer Mehrzahl von Audiodateien anzueignen.</p>
+<p>Combining the functioning principles of plate-reverbs and recent experiences with piezoelectric sensors,
+I came up with the idea to build a reverb-machine from some kind of string instrument.
+One idea followed the next and the project grew pretty big. 
+It is still an ongoing project with a long todo-list,
+but I want to present a functioning prototype to start out this documentation.</p>
 
-<p>Die Dokumentation beginnt mit dem Ergebnis.</p>
+<p>At current state, there are basically two devices.
+One is a Zither, that was prepared with speakers and piezoelectric sensors. 
+It would serve as a makeshift reverb-device, aswell as an Input source for the actual synth.</p>
+
+<p>The other is a granular synth, programmed in SuperCollider that’s running on a <em>BeagleBone Black</em><sup id="fnref:bbb" role="doc-noteref"><a href="#fn:bbb" class="footnote" rel="footnote">1</a></sup>.
+It takes audio input and - on the press of a button - stores it in a buffer. <br />
+This audio data is then rearranged in adjustable patterns, rates and various other parameters.<br />
+I will upload a detailed build-documentation to GitHub shortly, but here’s a list of it’s current features:
+<!--- For detailed build-documentation, check out this project's [GitHub-repository](). ---></p>
+<ul>
+  <li>stereo i/o</li>
+  <li>presets</li>
+  <li>MIDI-input</li>
+  <li>three controls with value-pickup</li>
+  <li>rotary encoder</li>
+  <li>trigger button</li>
+</ul>
+
+<hr />
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:bbb" role="doc-endnote">
+      <p>SBC by Beaglebone <a href="#fnref:bbb" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
 <h1 id="related-projects">Related projects:</h1>
 
@@ -103,8 +129,6 @@ Darin versuchte ich mir Methoden zur Gewinnung von Metadaten aus einer Mehrzahl 
     </div>
     <div class="social-media">
       <nav>
-        
-          <a href="mailto:d.hanraths(at)web.de" target="_blank"><i class="fa fa-mail" aria-hidden="true"></i></a>
         
           <a href="https://github.com/FunctionalJerk" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
         

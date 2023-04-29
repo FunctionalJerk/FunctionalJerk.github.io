@@ -7,7 +7,11 @@ permalink: /about
 # Welcome! 
 
 Hey you! Thanks for visiting this very new place.  
-This site launched just recently and a good amount of projects and general information are still missing. 
+This site is where I host demos and short descriptions of my works of art and artistic research.
+Click through the [projects]({{ site.url }}) or scroll through [media]({{ site.url }}/media) to get an impression of my work.  
+
+This site launched just recently and a good amount of content is still missing. 
+I will update this page frequently by adding new projects and general info, so stay tuned! 
 
 ## About me
 

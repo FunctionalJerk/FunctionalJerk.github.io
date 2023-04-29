@@ -7,6 +7,11 @@ title: 'Apotrop'
 
 *coming soon*
 
+
+---
+* nessecary line
+{:footnotes}
+
 # Related projects: 
 
 - [EsKannNichtAllesBlumeSein]({{ site.url }}/projects/Blume)

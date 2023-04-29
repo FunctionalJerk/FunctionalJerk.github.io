@@ -22,8 +22,12 @@ Within my bachelor thesis, I have developed a concept for transcribing those spe
 This EP documents my experiments on using this method as a form of relative and gradual musical notation.  
 Each piece represents an attempt to reconcile human improvisation with algorithmic composition.  
 
-## Pictures 
+---
+* nessecary line
+{:footnotes}
 
+
+# Pictures 
 
 ![Hügelmann performing on a prepared Zither]({{ site.github.url }}/assets/img/projects/{{ page.title }}/zith.jpg)
 *Hügelmann performing on a prepared Zither*
@@ -31,6 +35,6 @@ Each piece represents an attempt to reconcile human improvisation with algorithm
 ![experimental scoring-system]({{ site.github.url }}/assets/img/projects/{{ page.title }}/score.jpg)
 *Experimental scoring-system*
 
-## Related projects 
-- [Vocal Sampler]({{ site.url }}/projects/VocalSampler)
+# Related projects 
+- [tSNE Vocal Sampler]({{ site.url }}/projects/VocalSampler)
 - [Audio Data Mining]({{ site.url }}/projects/DataMining)

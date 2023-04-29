@@ -18,6 +18,11 @@ For further information, please refer to this project's [GitHub-repostitory](htt
 
 <!--- insert some basic description here --->
 
+---
+* nessecary line
+{:footnotes}
+
+
 # Related projects: 
 
 - [Audio Data Mining]({{ site.url }}/projects/DataMining)
