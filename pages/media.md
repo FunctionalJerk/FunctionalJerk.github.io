@@ -118,8 +118,8 @@ Visit the [project page]({{ site.github.url }}/projects/mm-m) for more informati
 	seamless
 	><a href="https://econore.bandcamp.com/album/zitadelle">Zitadelle by Hügelmann</a>
 </iframe>
-
-Visit [Hügelmann]() and check out more of their awesome work :) 
+*released by econore on October 3, 2022*
+Visit [Hügelmann](https://bandcamp.com/search?q=h%C3%BCgelmann&item_type=) on bandcamp and check out more of their awesome work :) 
 
 #### Assimilation
 
