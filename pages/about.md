@@ -21,14 +21,14 @@ With an emphasis on music informatics, I completed my bachelor's degree (BMus) i
 I make sonic art, mainly with digital tools like algorithms and data-sets, aswell as analog audio gear.  
 Most of my work uses some form of chaos, like randomness, feedback and sensor data. Results span from *ambient* to *noise* and have been called *erratic*, *punky* and *mesmerizing*.  
 
-I am strongly inspired by the artists of *new music*, of *noise* and of *experimental music*, but even more so by my own curiosity.
+I am strongly inspired by the artists of *new music*, *noise* and *experimental music*, but even more so by my own curiosity.
 Therefore I'm constantly searching, learning and growing. Right now, I strive to get better at coding, academic research and electrical engineering. 
 
 ## Work
 
 If you like what you see on this page, don't hesitate to get in contact via [**mail**](mailto:d.hanraths(at)web.de).  
 
-I'm looking to collaborate in interdisciplinary projects and to work jobs in:
+I'm looking to collaborate on projects and jobs in:
 - Music production 
 - Sonic art in installation 
 - Sonic art in instrumentation
