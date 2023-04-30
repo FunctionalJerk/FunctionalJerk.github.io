@@ -33,7 +33,7 @@ Here's a short list of it's current features:
 - rotary encoder
 - trigger button
 
-I will upload a detailed build-documentation to [GitHub](https://github.com/FunctionalJerk/bela-grainsynth) shortly.
+Oonce I have cured some of it's current problems, I will upload a better demo video, aswell as a detailed build-documentation to [GitHub](https://github.com/FunctionalJerk/bela-grainsynth),  
 As of now, there's only source Code to be found there. 
 
 ---
