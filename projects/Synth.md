@@ -33,10 +33,42 @@ Here's a short list of it's current features:
 - rotary encoder
 - trigger button
 
-Oonce I have cured some of it's current problems, I will upload a better demo video, aswell as a detailed build-documentation to [GitHub](https://github.com/FunctionalJerk/bela-grainsynth),  
+Oonce I have cured some of it's current problems, I will upload a better demo video, aswell as a detailed build-documentation to [GitHub](https://github.com/FunctionalJerk/bela-grainsynth). 
 As of now, there's only source Code to be found there. 
 
+## Pictures
+
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/Zither_crop.jpg)
+
+Zither after cleaning & before prepping.
+
 ---
+
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/Zither_inside.jpg)
+
+Inside the Zither after prepping.
+
+---
+
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/Synth_front.jpg)
+
+The face or UI of the synth.
+
+---
+
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/Synth_inside.jpg)
+
+The inside of the Synth, showing the wiring. 
+I know this is a crude job, but remember this is just a prototype.
+
+---
+
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/Synth_side.jpg)
+
+Side-view of the Synth, showing the connections.
+
+---
+
 * footnotes will be placed here
 {:footnotes}
 
