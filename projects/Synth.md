@@ -23,7 +23,6 @@ It serves as a makeshift reverb-device, aswell as an input source for the actual
 2. : A granular synth, programmed in *SuperCollider[^sc]* and running on a *BeagleBone Black*, equipped with a *Bela-Cape[^bela]*.  
 It takes audio input and stores it in a buffer on the press of a button.   
 The recorded audio is then rearranged in adjustable patterns, rates and various other parameters.  
-
 Here's a short list of it's current features:
 
 - stereo i/o

@@ -15,13 +15,11 @@ I will update this page frequently by adding new projects and general info, so s
 
 ## About me
 
-<!--- MMus - *Klang und Realität* - 1. semester - RSH Düsseldorf   --->
 I'm David Hanraths, 33yo he/him, Germany/NRW based student of Music with an obsession on the aesthetic aspects of digital and acoustic spaces.  
 With an emphasis on music informatics, I completed my bachelor's degree (BMus) in September 2022 at *Institute for Music and Media* in Düsseldorf, Germany.  
 
 I make sonic art, mainly with digital tools like algorithms and data-sets, aswell as analog audio gear.  
-Most of my work uses some form of chaos, like randomness, feedback and sensor data.  
-The results span from *ambient* to *noise* and have been called *erratic*, *punky* and *mesmerizing*.  
+Most of my work uses some form of chaos, like randomness, feedback and sensor data. Results span from *ambient* to *noise* and have been called *erratic*, *punky* and *mesmerizing*.  
 
 I am strongly inspired by the artists of *new music*, of *noise* and of *experimental music*, but even more so by my own curiosity.
 Therefore I'm constantly searching, learning and growing. Right now, I strive to get better at coding, academic research and electrical engineering. 

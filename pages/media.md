@@ -95,6 +95,18 @@ Kindly presented by *Econore X Museum Abteiberg on June 20th, 2019* and shot by 
 
 The following is a collection of works I have produced alone or in collaboration with other artists.
 
+#### Apotrop
+
+<iframe 
+	style="border: 0; width: 100%; height: 120px;" 
+	src="https://bandcamp.com/EmbeddedPlayer/album=567214315/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" 
+	seamless
+	><a href="https://davidhanraths.bandcamp.com/album/apotrop">Apotrop by Sponsch ft. David Hanraths</a>
+</iframe>
+
+*Released on April 30th, 2023.*
+View the [project page]({{ site.github.url }}/projects/Apotrop) and follow [Sponsch on Bandcamp](https://sponsch.bandcamp.com/)! 
+
 #### °mm ↓m​:​°​,
 
 <iframe 
