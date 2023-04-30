@@ -6,7 +6,7 @@ title: 'EsKannNichtAllesBlumeSein'
 # Es Kann Nicht Alles Blume Sein
 
 *Generative multichannel-installation*  
-*presented @ Palastrauschen[^palast] on Feb. 23, 2023.*  
+*presented @ [Palastrauschen](https://www.kunstpalast.de/palastrauschen) on Feb. 23, 2023.*  
 
 **Lennart Posch** - *text and composition*  
 **David Hanraths** - *arrangement and production*  
@@ -18,11 +18,11 @@ Hiding among the melodies we speak or dream, the Nature of these intentions rema
 
 This work explores the abstact ambiguity of parasemantic sign systems within the intersections of acousmatic and concrete sound.
 
-It utilizes field-recordings, private voice messages sourced through the *signal-media-exporter[^sme]*, 
+It utilizes field-recordings, private voice messages sourced through the [*signal-media-exporter*](https://github.com/IdealChain/signal-media-exporter), 
 aswell as original speech composed by Lennart Posch, that was performed by himself and Maral Sedighi.
 
 Going by Lennart's composition, I programmed a fixed form that consists of a set of generative parts.
-This Routine ran on a *Raspberry-Pi 4B* equipped with *Prynth[^prynth]*.  
+This Routine ran on a *Raspberry-Pi 4B* equipped with [*Prynth*](https://prynth.github.io/).  
 
 <!--- The file linked here represents one of possibly infinite variations of this generative piece and is rendered in stereo. --->
 
@@ -34,10 +34,6 @@ feel free to send me an e-mail!
 ---
 * nessecary line
 {:footnotes}
-
-[^palast]: [kunstpalast.de/palastrauschen](https://www.kunstpalast.de/palastrauschen)
-[^prynth]: [prynth.github.io](https://prynth.github.io/)
-[^sme]: [github.com/IdealChain/signal-media-exporter](https://github.com/IdealChain/signal-media-exporter)
 
 # Related projects: 
 

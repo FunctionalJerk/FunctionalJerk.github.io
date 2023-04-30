@@ -13,11 +13,11 @@ title: 'Apotrop'
 </iframe>
 
 *Generative 4-channel installation,*  
-*preseted @ Art Artist Düsseldorf[^art] from March 31. until April 02. 2023* 
+*preseted @ [Art Artist Düsseldorf](https://artartist.co/) from March 31. until April 02. 2023* 
 
-**Lennart Posch & David Hanraths** - *concept*  
-**David Hanraths** - *production*  
-**Sponsch**[^spo] - *Live-performance*  
+**Lennart Posch & David Hanraths** - *Conception*  
+**David Hanraths** - *Production*  
+[**Sponsch**](https://sponsch.bandcamp.com/) - *Live-performance*  
 
 This album documents an experiment in combining a controllable generative installation with live performances. 
 
@@ -30,14 +30,21 @@ Resulting audio is then fed into a loop, that echoes within the ongoing installa
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/ctl.jpg)
 Check out this custom serial controller [on GitHub](https://github.com/FunctionalJerk/SuperCollider-SerialCtl)
-that i build in order to manually control this installation.
+that i build, in order to manually control this installation.
+
+---
+
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/room.jpg)
+A glimpse of the room, where this experiment was conducted. 
+People depicted here are 1/2 of Sponsch and yours truly.
+
+--- 
+
+*More pictures and video material will be added soon!*
 
 ---
 * nessecary line
 {:footnotes}
-
-[^art]: [artartist.co](https://artartist.co/)
-[^spo]: [sponsch.bandcamp.com](https://sponsch.bandcamp.com/)
 
 # Related projects: 
 

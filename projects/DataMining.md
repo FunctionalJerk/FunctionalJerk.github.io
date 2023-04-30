@@ -7,12 +7,12 @@ title: 'DataMining'
 
 This project was was part of my bachelor studies in *Music and Media* at *Robert-Schumann-Hochschule Düsseldorf*.  
 It was dedicated to the methods for extracting and comparing the *fundamental frequencies[^f0]*, that occur within inconspicuous areas of everyday human interaction.  
-The data was sourced in a prior project, which aimed to collect variations of human vocal melodies in interjections. This idea was strongly inspired by Gail Jefferson's writings on *Conversation Analysis and sociolinguistics[^ca]*.  
+The data was sourced in a prior project, which aimed to collect variations of human vocal melodies in interjections. This idea was strongly inspired by *Conversation Analysis and sociolinguistics[^ca]*.  
 
-After doing some research, I ended up using the package *intonation[^inton]* for the *R-programming-language[^cran]* to extract and visualize these melodies.  
+After doing some research, I ended up using the package [*intonation*](https://github.com/usagi5886/intonation) for the [*R-programming-language*](https://www.r-project.org/) to extract and visualize these melodies.  
 These results would later be needed for [other projects]({{ site.github.url }}/projects/{{ page.title }}#related-projects) 
 
-Building on the same audio library, I realised my own version of the *AudioTSNEViewer[^atv]* by *Machine Learning for Artists*:
+Building on the same audio library, I realised my own version of the [*AudioTSNEViewer*](https://ml4a.github.io/guides/AudioTSNEViewer/) by *Machine Learning for Artists*:
 
 <video width="100%" height="336" controls>
   <source src="{{ site.url }}/assets/vid/projects/{{page.title}}/tsne.mp4" type="video/mp4">
@@ -33,9 +33,6 @@ I will try and rewrite th, so that it compares the samples actual intonation
 
 [^f0]: [wikipedia.org/wiki/Fundamental_frequency](https://en.wikipedia.org/wiki/Fundamental_frequency)
 [^ca]: [wikipedia.org/wiki/Conversation_analysis](https://en.wikipedia.org/wiki/Conversation_analysis)
-[^inton]: [github.com/usagi5886/intonation](https://github.com/usagi5886/intonation)
-[^cran]: [r-project.org](https://www.r-project.org/)
-[^atv]: [ml4a.github.io/guides/AudioTSNEViewer](https://ml4a.github.io/guides/AudioTSNEViewer/)
 [^tsne]: [medium.com/analytics-vidhya/what-is-t-sne](https://medium.com/analytics-vidhya/what-is-t-sne-37bfb920e431)
 
 ## Plots and Visualizations

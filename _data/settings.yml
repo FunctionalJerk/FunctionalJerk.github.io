@@ -11,7 +11,7 @@ menu:
 
 projects:
 - {name: 'Apotrop',  url: 'Apotrop'}
-- {name: 'Bela-Synth',  url: 'Synth'}
+- {name: 'DIY Granular-Synth',  url: 'Synth'}
 - {name: 'EsKannNichtAllesBlumeSein', url: 'Blume'}
 - {name: '°mm ↓m​:​°​,',   url: 'mm-m'}
 - {name: 'tSNE-VocalSampler',   url: 'VocalSampler'}
@@ -24,7 +24,7 @@ social:
 #- {icon: 'mail',	link: 'mailto:d.hanraths(at)web.de'}
 - {icon: 'github',	link: 'https://github.com/FunctionalJerk'}
 - {icon: 'bandcamp',	link: 'https://davidhanraths.bandcamp.com'}
-- {icon: 'soundcloud',	link: 'https://soundcloud.com/d-the-dangerous'}
+#- {icon: 'soundcloud',	link: 'https://soundcloud.com/d-the-dangerous'}
 
 #-------------------------------
 # SEO Section

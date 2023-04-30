@@ -3,7 +3,7 @@ layout: post
 title: 'Synth'
 ---
 
-# Bela-Synth
+# DIY Granular-Synth
 
 Combining the functioning principles of plate-reverbs and recent experiences with piezoelectric sensors,
 I came up with the idea to build a reverb-machine from some kind of stringed instrument.
@@ -20,9 +20,10 @@ Here's a short demo:
 At current time, there are basically two devices:
 1. : A Zither, that was prepared with speakers and piezoelectric sensors.  
 It serves as a makeshift reverb-device, aswell as an input source for the actual synth.
-2. : A granular synth, programmed in *SuperCollider[^sc]* and running on a *BeagleBone Black*, equipped with a *Bela-Cape[^bela]*.  
+2. : A granular synth, programmed in [*SuperCollider*](https://supercollider.github.io/) and running on a *BeagleBone Black*, equipped with a [*Bela-Cape*](https://eu.shop.bela.io/collections/bela-and-bela-mini/products/bela-cape).  
 It takes audio input and stores it in a buffer on the press of a button.   
 The recorded audio is then rearranged in adjustable patterns, rates and various other parameters.  
+
 Here's a short list of it's current features:
 
 - stereo i/o
@@ -38,9 +39,6 @@ As of now, there's only source Code to be found there.
 ---
 * footnotes will be placed here
 {:footnotes}
-
-[^sc]: [supercollider.github.io](https://supercollider.github.io/)
-[^bela]: [eu.shop.bela.io](https://eu.shop.bela.io/collections/bela-and-bela-mini/products/bela-cape)
 
 # Related projects: 
 

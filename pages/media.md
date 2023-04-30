@@ -28,6 +28,7 @@ Visit the [project page]({{ site.github.url }}/projects/Apotrop).
 
 <!--- for more information or [on GitHub]({{site.url}}/apotrop) for details. ---> 
 
+
 #### execute // Live-Concert // 29.10.2021
 
 <iframe
@@ -42,6 +43,8 @@ Visit the [project page]({{ site.github.url }}/projects/Apotrop).
 
 I had the great opportunity to play a gig at Super7000. 
 Visit [Die Digitale](https://die-digitale.net) and Toplap-Düsseldorf on [Twitter](https://twitter.com/ToplapD) or [Facebook](https://www.facebook.com/ToplapD/).
+
+---
 
 #### execute // LiveCode Sets
 
@@ -60,6 +63,8 @@ Visit Toplap-Düsseldorf on [Twitter](https://twitter.com/ToplapD), [Facebook](h
 
 I will try to have this embedded, meanwhile you can [watch it on YouTube](https://www.youtube.com/watch?v=d6bMp0vQqq4&t=378s).  
 
+---
+
 #### Yasuko Yui - Your Data
 
 <iframe 
@@ -73,6 +78,8 @@ I will try to have this embedded, meanwhile you can [watch it on YouTube](https:
 ></iframe>
 *presented @ Jazzschmiede Düsseldorf, October 25th 2020*  
 I was honored to do the audio-programming for this multimedia piece by contemporary composer [Yasuko Yui](http://y-yui.eu/yui/Home.html).
+
+---
 
 #### Econore X Museum Abteiberg Mönchengladbach 20.06.2019
 
@@ -89,7 +96,7 @@ I was honored to do the audio-programming for this multimedia piece by contempor
 This was my first live-coding performance, where I used filtered feedback and telegram voicemails, arranged in a playable pseudo-radio.  
 Kindly presented by *Econore X Museum Abteiberg on June 20th, 2019* and shot by [videospam3000](https://videospam3000.bandcamp.com/).
 
----
+<br>
 
 ## Releases
 
@@ -104,8 +111,9 @@ The following is a collection of works I have produced alone or in collaboration
 	><a href="https://davidhanraths.bandcamp.com/album/apotrop">Apotrop by Sponsch ft. David Hanraths</a>
 </iframe>
 
-*Released on April 30th, 2023.*
 View the [project page]({{ site.github.url }}/projects/Apotrop) and follow [Sponsch on Bandcamp](https://sponsch.bandcamp.com/)! 
+
+---
 
 #### °mm ↓m​:​°​,
 
@@ -119,6 +127,8 @@ View the [project page]({{ site.github.url }}/projects/Apotrop) and follow [Spon
 Visit the [project page]({{ site.github.url }}/projects/mm-m) for more information.
 <!--- or [view on GitHub]({{ site.url }}/Misunderstanding) for details --->
 
+---
+
 #### Zitadelle by Hügelmann
 
 <iframe 
@@ -130,11 +140,15 @@ Visit the [project page]({{ site.github.url }}/projects/mm-m) for more informati
 *released by econore on October 3, 2022*  
 Visit [Hügelmann](https://bandcamp.com/search?q=h%C3%BCgelmann&item_type=) on bandcamp and check out more of their awesome work :) 
 
+---
+
 #### Assimilation
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3292909528/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1103610150/transparent=true/" seamless><a href="https://econore.bandcamp.com/album/new-atlanta">New Atlanta by David Hanraths</a></iframe>
 
 *from [New Atlanta](https://econore.bandcamp.com/album/new-atlanta), released by econore on January 28, 2022* 
+
+---
 
 #### Expermin3
 
@@ -142,7 +156,7 @@ Visit [Hügelmann](https://bandcamp.com/search?q=h%C3%BCgelmann&item_type=) on b
 
 *from [Flag](https://econore.bandcamp.com/album/flag), released by econore on November 14, 2022*
 
----
+<br>
 
 ## Instruments
 
@@ -156,6 +170,8 @@ These are some of the user-interfaces I've created and experimented with.
 
 Visit the [project page]({{ site.github.url }}/projects/VocalSampler) for more information.
 
+---
+
 <!--- or [on GitHub]({{site.url}}/VocalSampler) for details. --->
 
 #### AudioTSNEViewer
@@ -166,8 +182,15 @@ Visit the [project page]({{ site.github.url }}/projects/VocalSampler) for more i
 
 Visit the [project page]({{ site.github.url }}/projects/DataMining) for more information.
 
-
 ---
 
-Feel free to visit my soundcloud-page (link in footer) in order to listen to some of my older stuff. 
+#### DIY Granular Synth
+
+<video width="100%" height="336" controls>
+  <source src="{{ site.url }}/assets/vid/projects/Synth/demo.mp4" type="video/mp4">
+</video>  
+
+Visit the [project page]({{ site.github.url }}/projects/Synth) for more information.
+
+
 

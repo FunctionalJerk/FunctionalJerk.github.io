@@ -12,10 +12,10 @@ It was part of my bachelor studies in *Music and Media* at *Robert-Schumann-Hoch
   <source src="{{ site.url }}/assets/vid/projects/{{page.title}}/demo.mp4" type="video/mp4">
 </video>  
 
-Samples within a library were analyzed and mapped by the *t-SNE algorithm[^tsne]* through a *python-script[^script]* provided by *Machine learning for artists[^ml4a]*. 
+Samples within a library were analyzed and mapped by the t-SNE algorithm through a [*python-script*](https://github.com/ml4a/ml4a-ofx/blob/master/scripts/tSNE-audio.py) provided by [*Machine learning for Artists*](https://ml4a.github.io/ml4a/). 
 
 Out comes a 2D-Scatterplot where each point represents a vocal-sample. 
-These samples can now be sequenced and resynthesized live, through a gui that was programmed in *SuperCollider[^sc]*.
+These samples can now be sequenced and resynthesized live, through a gui that was programmed in *SuperCollider*.
 
 For further information, please refer to this project's [GitHub-repostitory](https://github.com/FunctionalJerk/tSNE-VocalSampler).  
 
@@ -33,10 +33,6 @@ I will also try to provide a more generally applicable version of this and check
 * nessecary line
 {:footnotes}
 
-[^script]: [github.com/ml4a-ofx/tSNE-audio.py](https://github.com/ml4a/ml4a-ofx/blob/master/scripts/tSNE-audio.py)
-[^ml4a]: [ml4a.github.io](https://ml4a.github.io/ml4a/)
-[^tsne]: [medium.com/what-is-t-sne](https://medium.com/analytics-vidhya/what-is-t-sne-37bfb920e431)
-[^sc]: [supercollider.github.io](https://supercollider.github.io/)
 
 # Related projects: 
 
