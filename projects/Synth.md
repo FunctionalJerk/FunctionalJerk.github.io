@@ -5,6 +5,10 @@ title: 'Synth'
 
 # DIY Granular-Synth
 
+This project was part of my Bachelor-studies at *Institute for Music and Media @ Robert-Schumann-Hochschule Düsseldorf.*  
+It was submitted on June 17th of 2022.  
+
+
 Combining the functioning principles of plate-reverbs and recent experiences with piezoelectric sensors,
 I came up with the idea to build a reverb-machine from some kind of stringed instrument.
 
@@ -33,7 +37,7 @@ Here's a short list of it's current features:
 - rotary encoder
 - trigger button
 
-Oonce I have cured some of it's current problems, I will upload a better demo video, aswell as a detailed build-documentation to [GitHub](https://github.com/FunctionalJerk/bela-grainsynth). 
+Once I have cured some of it's current problems, I will upload a better demo video, aswell as a detailed build-documentation to [GitHub](https://github.com/FunctionalJerk/bela-grainsynth). 
 As of now, there's only source Code to be found there. 
 
 ## Pictures
