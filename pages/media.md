@@ -76,7 +76,7 @@ I will try to have this embedded, meanwhile you can [watch it on YouTube](https:
 	allow="autoplay; encrypted-media"
 	allowfullscreen
 ></iframe>
-*presented @ Jazzschmiede Düsseldorf, October 25th 2020*  
+*Presented @ Jazzschmiede Düsseldorf, October 25th 2020*  
 I was honored to do the audio-programming for this multimedia piece by contemporary composer [Yasuko Yui](http://y-yui.eu/yui/Home.html).
 
 ---
@@ -111,7 +111,8 @@ The following is a collection of works I have produced alone or in collaboration
 	><a href="https://davidhanraths.bandcamp.com/album/apotrop">Apotrop by Sponsch ft. David Hanraths</a>
 </iframe>
 
-View the [project page]({{ site.github.url }}/projects/Apotrop) and follow [Sponsch on Bandcamp](https://sponsch.bandcamp.com/)! 
+[Project page]({{ site.github.url }}/projects/Apotrop)  
+[Sponsch on Bandcamp](https://sponsch.bandcamp.com/)! 
 
 ---
 
@@ -124,7 +125,7 @@ View the [project page]({{ site.github.url }}/projects/Apotrop) and follow [Spon
     ><a href="https://davidhanraths.bandcamp.com/album/mm-m">°mm ↓m:°, by David Hanraths</a>
 </iframe>
 
-Visit the [project page]({{ site.github.url }}/projects/mm-m) for more information.
+[Project page]({{ site.github.url }}/projects/mm-m)
 <!--- or [view on GitHub]({{ site.url }}/Misunderstanding) for details --->
 
 ---
@@ -137,8 +138,8 @@ Visit the [project page]({{ site.github.url }}/projects/mm-m) for more informati
 	seamless
 	><a href="https://econore.bandcamp.com/album/zitadelle">Zitadelle by Hügelmann</a>
 </iframe>
-*released by econore on October 3, 2022*  
-Visit [Hügelmann](https://bandcamp.com/search?q=h%C3%BCgelmann&item_type=) on bandcamp and check out more of their awesome work :) 
+*Released by econore on October 3, 2022*  
+[Hügelmann on Bandcamp](https://bandcamp.com/search?q=h%C3%BCgelmann&item_type=) 
 
 ---
 
@@ -146,7 +147,7 @@ Visit [Hügelmann](https://bandcamp.com/search?q=h%C3%BCgelmann&item_type=) on b
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3292909528/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1103610150/transparent=true/" seamless><a href="https://econore.bandcamp.com/album/new-atlanta">New Atlanta by David Hanraths</a></iframe>
 
-*from [New Atlanta](https://econore.bandcamp.com/album/new-atlanta), released by econore on January 28, 2022* 
+*From [New Atlanta](https://econore.bandcamp.com/album/new-atlanta), released by econore on January 28, 2022* 
 
 ---
 
@@ -154,7 +155,7 @@ Visit [Hügelmann](https://bandcamp.com/search?q=h%C3%BCgelmann&item_type=) on b
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3881749266/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=8465107/transparent=true/" seamless><a href="https://econore.bandcamp.com/album/flag">Flag by Econore</a></iframe>
 
-*from [Flag](https://econore.bandcamp.com/album/flag), released by econore on November 14, 2022*
+*From [Flag](https://econore.bandcamp.com/album/flag), released by econore on November 14, 2022*
 
 <br>
 
@@ -168,7 +169,7 @@ These are some of the user-interfaces I've created and experimented with.
   <source src="{{ site.url }}/assets/vid/projects/VocalSampler/demo.mp4" type="video/mp4">
 </video>
 
-Visit the [project page]({{ site.github.url }}/projects/VocalSampler) for more information.
+[Project page]({{ site.github.url }}/projects/VocalSampler)
 
 ---
 
@@ -180,7 +181,7 @@ Visit the [project page]({{ site.github.url }}/projects/VocalSampler) for more i
   <source src="{{ site.url }}/assets/vid/projects/DataMining/tsne.mp4" type="video/mp4">
 </video>  
 
-Visit the [project page]({{ site.github.url }}/projects/DataMining) for more information.
+[Project page]({{ site.github.url }}/projects/DataMining)
 
 ---
 
@@ -190,7 +191,7 @@ Visit the [project page]({{ site.github.url }}/projects/DataMining) for more inf
   <source src="{{ site.url }}/assets/vid/projects/Synth/demo.mp4" type="video/mp4">
 </video>  
 
-Visit the [project page]({{ site.github.url }}/projects/Synth) for more information.
+[Project page]({{ site.github.url }}/projects/Synth)
 
 
 
