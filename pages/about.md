@@ -8,7 +8,7 @@ permalink: /about
 
 I'm **David Hanraths**, *he/him*, Germany/NRW based scholar of Music.  
 
-When I was nine years old, I was introduced to the Guitar. I soon discovered the world of Guitar Pedals and fell in love with these mystical devices.  
+When I was nine years old, I was introduced to the Guitar. I soon discovered the world of Guitar Pedals and fell in love with sound and these mystical devices that produce it.  
 
 In 2015 I started studying at *Institute for Music and Media* in Düsseldorf. At the time, I planned to become either a Jazz-Guitarist, or some kind of producing engineer.  
 Instead I learned that my passion for sound was much more represented in the manifold facets of *Music Informatics*. 
