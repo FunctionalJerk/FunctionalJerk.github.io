@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---
 
-# About me
-
 I am **David Hanraths**, musicologist from Germany/NRW.  
 
 In 2015 I started studying at the *Institute for Music and Media* in Düsseldorf.  
