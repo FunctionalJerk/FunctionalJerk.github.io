@@ -22,14 +22,14 @@ Within my bachelor thesis, I have developed a concept for transcribing those spe
 
 Harmony works different in verbal communication:  
 It's meaning can only be understood within the context of the speakers vocal range. Hence, one intonation can mean different things, depending on who vocalises it.  
-That's why my transcriptions don't use an absolute scale (Hz) but a relative one, defined by the vocal range of it's speaker.  
-One advantage of this approach is that it translates well onto any other gradual parameter of music.  
+That's why my transcriptions don't use an absolute scale (Hz) but a relative one, stripped of the individual vocal range of its original speaker.  
+One advantage of this approach is that it translates well onto the range of any other instrument or gradual parameter of music.  
 
-My idea was, that if intonation is a manifestation of analoguous communication, it's meaning (or significance) had to be inherent in their form.  
-For details on the EP, follow the bandcamp-link above and read up on the description given for the individual tracks.  
+I assumed that if intonation was a manifestation of analoguous communication, it's significance had to be found in its form.  
 
-This EP documents my experiments with this method.  
+This EP documents my experiments with this idea.  
 Each piece represents an attempt to reconcile human improvisation with algorithmic composition.  
+For details on this EP, follow the bandcamp-link above and read up on the description given for the individual tracks.  
 
 *[vocal range]: also *ambitus* 
 

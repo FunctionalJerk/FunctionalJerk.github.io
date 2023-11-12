@@ -153,7 +153,10 @@ The following is a collection of works I have produced alone or in collaboration
 
 #### Expermin3
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3881749266/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=8465107/transparent=true/" seamless><a href="https://econore.bandcamp.com/album/flag">Flag by Econore</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" 
+	src="https://bandcamp.com/EmbeddedPlayer/album=3881749266/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=8465107/transparent=true/"
+	seamless
+	><a href="https://econore.bandcamp.com/album/flag">Flag by Econore</a></iframe>
 
 *From [Flag](https://econore.bandcamp.com/album/flag), released by econore on November 14, 2022*
 
@@ -161,7 +164,7 @@ The following is a collection of works I have produced alone or in collaboration
 
 ## Instruments
 
-These are some of the user-interfaces I've created and experimented with.
+These are some of the instruments I've realized.
 
 #### TSNE VocalSampler
 
