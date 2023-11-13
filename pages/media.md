@@ -14,15 +14,17 @@ permalink: /media
 
 <iframe 
 	src="https://player.vimeo.com/video/866247540?h=85f92d3b68" 
-	width="100%" 
+	width="600" 
 	height="360" 
-	frameborder="0" 
+	frameborder="2" 
 	allow="autoplay; fullscreen; picture-in-picture" 
 	allowfullscreen
 ></iframe>
 
 Generative installation @ [Urbanorama Krefeld](https://urbanorama-festival.de), 
 visible from 23. of June through 9. of July 2023.
+
+---
 
 <!---
 ### Apotrop
@@ -38,7 +40,8 @@ visible from 23. of June through 9. of July 2023.
 
 Visit the [project page]({{ site.github.url }}/projects/Apotrop).
 
-<!--- for more information or [on GitHub]({{site.url}}/apotrop) for details. ---> 
+for more information or [on GitHub]({{site.url}}/apotrop) for details. 
+---> 
 
 
 #### execute // Live-Concert // 29.10.2021
@@ -53,8 +56,8 @@ Visit the [project page]({{ site.github.url }}/projects/Apotrop).
     allowfullscreen
 ></iframe>
 
-I had the great opportunity to play a gig at Super7000. 
-Visit [Die Digitale](https://die-digitale.net) and Toplap-Düsseldorf on [Twitter](https://twitter.com/ToplapD) or [Facebook](https://www.facebook.com/ToplapD/).
+Gig @ Super7000 for [Die Digitale](https://die-digitale.net)  
+and Toplap-Düsseldorf - [Facebook](https://www.facebook.com/ToplapD/) / [YouTube](https://www.youtube.com/@toplapddorf).
 
 ---
 
@@ -72,10 +75,8 @@ Visit [Die Digitale](https://die-digitale.net) and Toplap-Düsseldorf on [Twitte
 ></iframe>
 --->
 
-My first and only streaming gig, kindly provided by Toplap Düsseldorf.
-Visit Toplap-Düsseldorf on [Twitter](https://twitter.com/ToplapD), [Facebook](https://www.facebook.com/ToplapD/) or [YouTube](https://www.youtube.com/@toplapddorf)!  
-
-I will try to have this embedded, meanwhile you can [watch it on YouTube](https://www.youtube.com/watch?v=d6bMp0vQqq4&t=378s).  
+My first and only streaming gig, kindly provided by Toplap Düsseldorf.  
+I will try to get this embedded, meanwhile you can [watch it on YouTube](https://www.youtube.com/watch?v=d6bMp0vQqq4&t=378s).  
 
 ---
 
@@ -90,6 +91,7 @@ I will try to have this embedded, meanwhile you can [watch it on YouTube](https:
 	allow="autoplay; encrypted-media"
 	allowfullscreen
 ></iframe>
+
 *Presented @ Jazzschmiede Düsseldorf, October 25th 2020*  
 I was honored to do the audio-programming for this multimedia piece by contemporary composer [Yasuko Yui](http://y-yui.eu/yui/Home.html).
 
@@ -98,10 +100,10 @@ I was honored to do the audio-programming for this multimedia piece by contempor
 #### Econore X Museum Abteiberg Mönchengladbach 20.06.2019
 
 <iframe
-    width="100%"
-    height="336"
-    src="https://www.youtube.com/embed/om6pGCfd5EI"
-    title="DAVID HANRATHS Live-Konzert-Debüt  bei Econore X Museum Abteiberg Mönchengladbach 20.06.2019"
+    	width="100%"
+    	height="336"
+    	src="https://www.youtube.com/embed/om6pGCfd5EI"
+    	title="DAVID HANRATHS Live-Konzert-Debüt  bei Econore X Museum Abteiberg Mönchengladbach 20.06.2019"
 	frameborder="2"
 	allow="autoplay; encrypted-media"
     	allowfullscreen
