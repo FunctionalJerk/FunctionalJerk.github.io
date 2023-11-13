@@ -13,36 +13,16 @@ permalink: /media
 #### Hyalalie
 
 <iframe 
-	src="https://player.vimeo.com/video/866247540?h=85f92d3b68" 
-	width="600" 
-	height="360" 
-	frameborder="2" 
-	allow="autoplay; fullscreen; picture-in-picture" 
-	allowfullscreen
+src="https://player.vimeo.com/video/866247540?h=85f92d3b68&color=c9ff23&byline=0&portrait=0" 
+width="640" height="360" frameborder="2" allow="autoplay; fullscreen; picture-in-picture" 
+allowfullscreen
 ></iframe>
+<p><a href="https://vimeo.com/866247540">Hyalalie</a></p>
 
-Generative installation @ [Urbanorama Krefeld](https://urbanorama-festival.de), 
-visible from 23. of June through 9. of July 2023.
+Generative installation @ [Urbanorama Krefeld](https://urbanorama-festival.de/veranstaltung/hyalalie-klangistallation-von-sebastian-fecke-diaz-david-hanraths/), 
+in collaboration with Sebastian Fecke Diaz, visible from 06/23 through 07/09 2023.
 
 ---
-
-<!---
-### Apotrop
-
-<iframe
-    width="447"
-    height="336"
-    src="https://www.youtube.com/embed/qGXQVNUWFc0" 
-    title="execute // Live-Concert // 29.10.2021"	
-    frameborder="2"
-    allow="autoplay; encrypted-media"
-></iframe>
-
-Visit the [project page]({{ site.github.url }}/projects/Apotrop).
-
-for more information or [on GitHub]({{site.url}}/apotrop) for details. 
----> 
-
 
 #### execute // Live-Concert // 29.10.2021
 
@@ -62,18 +42,6 @@ and Toplap-Düsseldorf - [Facebook](https://www.facebook.com/ToplapD/) / [YouTub
 ---
 
 #### execute // LiveCode Sets
-
-<!---
-<iframe 
-	width="100%" 
-	height="336" 
-	src="https://www.youtube.com/embed/d6bMp0vQqq4" 
-	title="execute // LiveCode Sets" 
-	frameborder="2" 
-	allow="autoplay; encrypted-media"
-	allowfullscreen
-></iframe>
---->
 
 My first and only streaming gig, kindly provided by Toplap Düsseldorf.  
 I will try to get this embedded, meanwhile you can [watch it on YouTube](https://www.youtube.com/watch?v=d6bMp0vQqq4&t=378s).  
