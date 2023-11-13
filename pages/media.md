@@ -12,17 +12,13 @@ permalink: /media
 
 #### Hyalalie
 
-<iframe 
-src="https://player.vimeo.com/video/866247540?h=85f92d3b68&color=c9ff23&byline=0&portrait=0" 
-width="640" height="360" frameborder="2" allow="autoplay; fullscreen; picture-in-picture" 
-allowfullscreen
-></iframe>
 <p><a href="https://vimeo.com/866247540">Hyalalie</a></p>
 
 Generative installation @ [Urbanorama Krefeld](https://urbanorama-festival.de/veranstaltung/hyalalie-klangistallation-von-sebastian-fecke-diaz-david-hanraths/), 
 in collaboration with Sebastian Fecke Diaz, visible from 06/23 through 07/09 2023.
 
 ---
+
 
 #### execute // Live-Concert // 29.10.2021
 
