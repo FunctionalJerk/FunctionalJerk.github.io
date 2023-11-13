@@ -10,7 +10,19 @@ permalink: /media
 
 ## live
 
-Here's a list of live performances I did or collaborated on.
+#### Hyalalie
+
+<iframe 
+	src="https://player.vimeo.com/video/866247540?h=85f92d3b68" 
+	width="100%" 
+	height="360" 
+	frameborder="0" 
+	allow="autoplay; fullscreen; picture-in-picture" 
+	allowfullscreen
+></iframe>
+
+Generative installation @ [Urbanorama Krefeld](https://urbanorama-festival.de), 
+visible from 23. of June through 9. of July 2023.
 
 <!---
 ### Apotrop
@@ -48,6 +60,7 @@ Visit [Die Digitale](https://die-digitale.net) and Toplap-Düsseldorf on [Twitte
 
 #### execute // LiveCode Sets
 
+<!---
 <iframe 
 	width="100%" 
 	height="336" 
@@ -57,6 +70,7 @@ Visit [Die Digitale](https://die-digitale.net) and Toplap-Düsseldorf on [Twitte
 	allow="autoplay; encrypted-media"
 	allowfullscreen
 ></iframe>
+--->
 
 My first and only streaming gig, kindly provided by Toplap Düsseldorf.
 Visit Toplap-Düsseldorf on [Twitter](https://twitter.com/ToplapD), [Facebook](https://www.facebook.com/ToplapD/) or [YouTube](https://www.youtube.com/@toplapddorf)!  
