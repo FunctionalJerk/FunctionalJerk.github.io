@@ -14,8 +14,8 @@ permalink: /media
 
 <iframe 
 src="https://player.vimeo.com/video/866247540?h=85f92d3b68&color=c9ff23&title=0&byline=0&portrait=0" 
-width="640" 
-height="360" 
+width="597" 
+height="336" 
 frameborder="2" 
 allow="autoplay; fullscreen; picture-in-picture" 
 allowfullscreen

@@ -24,8 +24,8 @@ Building on the same audio library, I realised my own version of the [*AudioTSNE
 
 There's a lot still to explore here. 
 The python-script that was used to create the *t-SNE plot[^tsne]* looks for similarities in harmonic content. 
-To apply it to my proposal for relative vocal harmony, each sample needs to be put in relation to it's speakers vocal range. 
-I will try and rewrite th, so that it compares the samples actual intonation
+To apply it to my idea of relative vocal harmony, each sample needs to be put in relation to it's speakers vocal range. 
+I will soon rewrite it, so that it compares the actual intonation contained in the samples. 
 
 ---
 * nessecary line

@@ -38,9 +38,6 @@ that i build, in order to manually control this installation.
 A glimpse of the room, where this experiment was conducted. 
 People depicted here are 1/2 of Sponsch and yours truly.
 
---- 
-
-*More pictures and video material will be added soon!*
 
 ---
 * nessecary line
