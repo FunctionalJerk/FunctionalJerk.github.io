@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html class="">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Artist portfolio by David Hanraths">
+    <meta rel="author" href="https://plus.google.com/u/0/#">
+    <meta rel="publisher" href="https://plus.google.com/u/0/#">
+    <title>
+      
+        Hyalalie | David Hanraths
+      
+    </title>
+    <link rel="stylesheet" href="/assets/css/all.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!-- Use Atom -->
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="David Hanraths" />
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-112060364-3', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+    <!-- Use Jekyll SEO plugin -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Hyalalie | David Hanraths</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="Hyalalie" />
+<meta name="author" content="David Hanraths" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Documentation of DHanr’s projects in music, artistic research and audio-electronics." />
+<meta property="og:description" content="Documentation of DHanr’s projects in music, artistic research and audio-electronics." />
+<link rel="canonical" href="http://localhost:4000/projects/Hyalalie/" />
+<meta property="og:url" content="http://localhost:4000/projects/Hyalalie/" />
+<meta property="og:site_name" content="David Hanraths" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Hyalalie" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"David Hanraths"},"description":"Documentation of DHanr’s projects in music, artistic research and audio-electronics.","headline":"Hyalalie","url":"http://localhost:4000/projects/Hyalalie/"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <div class="site-container">
+      <header>
+  <div class="logo">
+    <a href="/">David Hanraths</a>
+  </div>
+  <nav>
+    
+      <a href="/projects">Projects</a>
+    
+      <a href="/media">Media</a>
+    
+      <a href="/about">About</a>
+    
+  </nav>
+</header>
+
+
+      <br>
+<br>
+
+<section>
+  <div class="post-container">
+    <p></p>
+    <div class="project-load"><h1 id="hyalalie">Hyalalie</h1>
+
+<p>This summer my good friend Sebastian Fecke Diaz and I were invited by <em>Hochschule Niederrhein</em> to contribute to <a href="https://urbanorama-festival.de/">Urbanorama-Festival</a> in Krefeld, Germany. 
+Together we realized a sound installation, that ran from 23th of June until the 9th of July.</p>
+
+<p>The site was an old octagonal glass Pavillon, that once was build to serve as an ice-cream parlor but was abandoned for unknown reasons.
+The Pavillon is seated in the middle of the avenue that connects the main station with the city’s Theater and is surrounded by Cafés, Kiosks and tram-tracks.</p>
+
+<p>We had already started experimenting with wavesets-based granular synthesis<sup id="fnref:fn1" role="doc-noteref"><a href="#fn:fn1" class="footnote" rel="footnote">1</a></sup> and were determined to transfer our research onto a generative installation.</p>
+
+<p>The design department of <em>Hochschule Niederrhein</em> was so kind to help us print the following text onto the outside wall:</p>
+
+<p><code class="language-plaintext highlighter-rouge">Die Klänge um den Glaspavillon auf dem Ostwall - vorüberziehende Passanten, vorbeifahrende Straßenbahnen - resonieren im Innern seiner gläsenernen Membran. Im Rahmen der Klanginstallation wird dem Pavillon ermöglicht seine Umwelt zu hören und sich ihr mitzuteilen. So lässt er sich bei dem Versuch beobachten, die Sprache seiner Umgebung durch mechanische Imitationen zu erlernen.</code></p>
+
+<p><code class="language-plaintext highlighter-rouge">hy·a·la·lie: von altgriechisch hyalos, "Glas" und griechisch laléō „ich rede“</code></p>
+
+<iframe src="https://player.vimeo.com/video/866247540?h=85f92d3b68&amp;color=c9ff23&amp;title=0&amp;byline=0&amp;portrait=0" width="597" height="336" frameborder="2" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+
+<h2 id="technical-stuff">technical stuff</h2>
+
+<p>This installation was programmed in SuperCollider running on a RaspberryPi 4©. 
+Input source were two DIY contact-mics (Piezos) that were attached to the glass walls of the pavillon and amplified by a DIY preamp. 
+These inputs would be recorded and analyzed for zero-crossings, if certain conditions were given. 
+The resulting wavesets were then used to play one of many different algorithmic patterns, depending on various factors of randomness. 
+We used four transducers or <em>electro-dynamical exciters</em>, mounted to the glass walls of the pavillon to turn them into speakers.</p>
+
+<p>It was quite a challenge to make a generative sound installation run dusk til dawn in a public space.
+Sebastian and I have learned alot through this project and are very greatful for this opportunity.</p>
+
+<p>Our thanks to Patrick Wendtland, Lucas Brucks, and Clemens Brück of the design department of <em>Hochschule Niederrhein</em> for having and supporting us.</p>
+
+<hr />
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:fn1" role="doc-endnote">
+      <p>see T. Wishart (1994): Audible Design <a href="#fnref:fn1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+</div>
+  </div>
+  
+</section>
+
+      <footer>
+  <div class="footer-wrap">
+    <div class="footer-tagline">
+      <p></p>
+    </div>
+    <div class="social-media">
+      <nav>
+        
+          <a href="https://github.com/FunctionalJerk" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+        
+          <a href="https://davidhanraths.bandcamp.com" target="_blank"><i class="fa fa-bandcamp" aria-hidden="true"></i></a>
+        
+      </nav>
+       <div class="social-media">
+      <nav>
+        © David Hanraths - 2023 
+      </nav>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  </body>
+</html>

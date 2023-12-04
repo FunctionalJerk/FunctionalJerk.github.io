@@ -26,7 +26,7 @@ The output of two DIY EMF-sensors was filtered through several controllable FFT 
 The installation was meant as a playable instrument. Artists would perform with it and inside it, by using the EMF-sensors and by adding their own musical setup.
 Resulting audio is then fed into a loop, that echoes within the ongoing installation.
 
-# Pictures
+## Pictures
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/ctl.jpg)
 Check out this custom serial controller [on GitHub](https://github.com/FunctionalJerk/SuperCollider-SerialCtl)
