@@ -34,7 +34,8 @@ This installation was programmed in SuperCollider running on a RaspberryPi 4©.
 Input source were two DIY contact-mics (Piezos) that were attached to the glass walls of the pavillon and amplified by a DIY preamp. 
 These inputs would be recorded and analyzed for zero-crossings, if certain conditions were given. 
 The resulting wavesets were then used to play one of many different algorithmic patterns, depending on various factors of randomness. 
-We used four transducers or *electro-dynamical exciters*, mounted to the glass walls of the pavillon to turn them into speakers.
+We used four transducers or *electro-dynamical exciters*, mounted to the glass walls of the pavillon to turn them into speakers.  
+
 <!--
 It was quite a challenge to make a generative sound installation run dusk til dawn in a public space.
 Sebastian and I have learned alot through this project and are very greatful for this opportunity.
