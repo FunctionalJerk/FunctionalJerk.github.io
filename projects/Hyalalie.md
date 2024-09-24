@@ -30,30 +30,23 @@ allowfullscreen
 
 ## technical stuff
 
-<<<<<<< HEAD
-This installation was programmed in SuperCollider running on a RaspberryPi 4©.
+This installation was programmed in SuperCollider running on a RaspberryPi 4®.
 Input source were two DIY contact-mics (Piezos) that were attached to the glass walls of the pavillon and amplified by a DIY preamp.
 These inputs would be recorded and analyzed for zero-crossings, if certain conditions were given.
 The resulting wavesets were then used to play one of many different algorithmic patterns, depending on various factors of randomness.
 We used four transducers or _electro-dynamical exciters_, mounted to the glass walls of the pavillon to turn them into speakers.
-=======
-This installation was programmed in SuperCollider running on a RaspberryPi 4©. 
+
+This installation was programmed in SuperCollider running on a RaspberryPi 4®. 
 Input source were two DIY contact-mics (Piezos) that were attached to the glass walls of the pavillon and amplified by a DIY preamp. 
 These inputs would be recorded and analyzed for zero-crossings, if certain conditions were given. 
 The resulting wavesets were then used to play one of many different algorithmic patterns, depending on various factors of randomness. 
 We used four transducers or *electro-dynamical exciters*, mounted to the glass walls of the pavillon to turn them into speakers.  
->>>>>>> f82b4224a20eb064f794d542f6a04b5fd7d0228e
 
 <!--
 It was quite a challenge to make a generative sound installation run dusk til dawn in a public space.
 Sebastian and I have learned alot through this project and are very greatful for this opportunity.
-<<<<<<< HEAD
-
-Our thanks to Patrick Wendtland, Lucas Brucks, and Clemens Brück of the design department of _Hochschule Niederrhein_ for having and supporting us.
-=======
 -->
-Our thanks to Patrick Wendtland, Lucas Brucks, and Clemens Brück of the design department of *Hochschule Niederrhein* for having and supporting us.  
->>>>>>> f82b4224a20eb064f794d542f6a04b5fd7d0228e
+Our thanks to Patrick Wendtland, Lucas Brucks, and Clemens Brück of the design department of *Hochschule Niederrhein* for making this possible.  
 
 ---
 
