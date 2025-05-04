@@ -75,6 +75,6 @@ Side-view of the Synth, showing the connections.
 * footnotes will be placed here
 {:footnotes}
 
-# Related projects: 
+## Related projects: 
 
 - [°mm ↓m​:​°​,]({{ site.url }}/projects/mm-m)

@@ -14,6 +14,7 @@ url: "https://functionaljerk.github.io" # the base hostname & protocol for your 
 github_username:  "FunctionalJerk"
 soundcloud_username: "d-the-dangerous"
 bandcamp_username: "davidhanraths"
+mastodon_username: "@FunctionalJerk"
 
 # Build settings
 #port: 4000

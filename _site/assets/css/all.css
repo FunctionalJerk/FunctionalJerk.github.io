@@ -674,17 +674,17 @@ a {
 }
 
 a:hover, a:focus {
-  color: #8ebaf9;
+  color: rgb(142.4615384615, 186.0769230769, 248.5384615385);
 }
 
 /* Selection colors (easy to forget)
  * ------------------------------------	*/
 ::selection {
-  background: #bfd8fb;
+  background: rgb(190.6923076923, 215.6153846154, 251.3076923077);
 }
 
 ::-moz-selection {
-  background: #bfd8fb;
+  background: rgb(190.6923076923, 215.6153846154, 251.3076923077);
 }
 
 img::selection {
@@ -696,7 +696,7 @@ img::-moz-selection {
 }
 
 body {
-  -webkit-tap-highlight-color: #bfd8fb;
+  -webkit-tap-highlight-color: rgb(190.6923076923, 215.6153846154, 251.3076923077);
 }
 
 /* Basic Styles
@@ -717,7 +717,7 @@ svg {
 }
 
 h3 {
-  color: #5a77ff;
+  color: rgb(90.1, 119.424856176, 255);
   text-align: center;
   padding: 100px 0 30px;
 }
@@ -738,7 +738,7 @@ section:nth-child(odd) {
   padding-bottom: 100px;
 }
 section:nth-child(odd) h3 {
-  color: #274dff;
+  color: rgb(39.1, 77.4943993232, 255);
 }
 
 h3 {
