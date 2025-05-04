@@ -10,7 +10,7 @@ title: 'inversinvertiert'
 
 This project was another cooperation with **Sebastian Fecke Diaz** that unfolded in the Summer 2024. 
 Together we wanted to investigate the potential of different conceptual approaches to *touch in musical composition*.
-For that we experimented with Eccentric Rotating Motors (ERM) for creating force feedback, as well as Exciters for creating vibrational feedback. 
+For that we experimented with Eccentric Rotating Motors (ERM) for creating force feedback, as well as exciters for creating vibrational feedback. 
 
 #### press:
 The sound installation *invers/invertiert* deals with inverse relations and thus with opposing structures that are structurally identical at the same time.
@@ -36,16 +36,18 @@ Erkrather Str. 365
 **pics:**  
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/DSC05096.jpg)
-*© Greta Gottschalk*
+*© Laurenz Ulrich*
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/DSC05117.jpg)
-*© Greta Gottschalk*
+*© Laurenz Ulrich*
 
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/DSC05125.jpg)  
-*© Greta Gottschalk*
+*© Laurenz Ulrich*
 
+<!---
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/poster.jpg)
 *© Design by Lukas Buhtz*
+--->
 
 #### Klangrauminstallationen
 
@@ -85,8 +87,9 @@ The source code needs some revisioning, before making it public, so it cannot be
 
 |:----------------|---|---|---|---:|
 | **Sebastian Fecke Diaz** | | – | | conceptualization & composition |
-| **Igrid Pons y Miras** | | – | | stage design |
+| **Íngrid Pons i Miras** | | – | | stage design |
 | **Felix Schormann** | | – | | steel- and woodwork |
+| **David Hanraths** | | – | | technical production |
 
 ## Related projects: 
 
