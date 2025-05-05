@@ -157,7 +157,7 @@ These are some of the instruments I've realized.
 
 #### TSNE VocalSampler
 
-<video width="100%" height="336" controls>
+<video width="100%" controls>
   <source src="{{ site.url }}/assets/vid/projects/VocalSampler/demo.mp4" type="video/mp4">
 </video>
 
@@ -169,7 +169,7 @@ These are some of the instruments I've realized.
 
 #### AudioTSNEViewer
 
-<video width="100%" height="336" controls>
+<video width="100%" controls>
   <source src="{{ site.url }}/assets/vid/projects/DataMining/tsne.mp4" type="video/mp4">
 </video>  
 
@@ -179,7 +179,7 @@ These are some of the instruments I've realized.
 
 #### DIY Granular Synth
 
-<video width="100%" height="336" controls>
+<video width="100%" controls>
   <source src="{{ site.url }}/assets/vid/projects/Synth/demo.mp4" type="video/mp4">
 </video>  
 
