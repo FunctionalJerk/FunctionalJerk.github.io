@@ -42,4 +42,7 @@
 <url>
 <loc>http://localhost:4000/projects</loc>
 </url>
+<url>
+<loc>http://localhost:4000/projects/xynos/</loc>
+</url>
 </urlset>
