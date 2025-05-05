@@ -8,8 +8,8 @@ title: 'inversinvertiert'
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/IMG_0998.jpg)
 *© Eva Czaya – 2024*  
 
-This project was another cooperation with **Sebastian Fecke Diaz** that unfolded in the Summer 2024. 
-Together we wanted to investigate the potential of different conceptual approaches to *touch in musical composition*.
+This project shows another cooperation with **Sebastian Fecke Diaz** that unfolded in the Summer 2024 as part of his masters exam for *Klang und Realität* at Robert Schumann Hochschule Düsseldorf.  
+Together we wanted to investigate the potential of different conceptual approaches to the medium of touch within musical composition and invers mathematical relations.
 For that we experimented with Eccentric Rotating Motors (ERM) for creating force feedback, as well as exciters for creating vibrational feedback. 
 
 #### press:
@@ -31,7 +31,7 @@ Erkrather Str. 365
 40231 Düsseldorf  
 
 **Time:**  
-13th of July 2024 
+July 13th 2024 
 
 **pics:**  
 
