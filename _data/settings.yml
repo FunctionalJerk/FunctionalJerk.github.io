@@ -12,6 +12,7 @@ menu:
 
 projects:
 #- {name: 'Axis Mundi',  url: 'axismundi'}
+#- {name: 'Xynos',  url: 'xynos'}
 - {name: 'invers/invertiert',  url: 'inversinvertiert'}
 #- {name: 'Making Place',  url: 'makingplace'}
 - {name: 'Hyalalie',  url: 'Hyalalie'}
