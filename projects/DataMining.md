@@ -14,9 +14,7 @@ These results would later be needed for [other projects]({{ site.github.url }}/p
 
 Building on the same audio library, I realised my own version of the [*AudioTSNEViewer*](https://ml4a.github.io/guides/AudioTSNEViewer/) by *Machine Learning for Artists*:
 
-<video width="100%" height="336" controls>
-  <source src="{{ site.url }}/assets/vid/projects/{{page.title}}/tsne.mp4" type="video/mp4">
-</video>  
+<iframe title="AudioTSNEViewer" width="560" height="315" src="https://makertube.net/videos/embed/2Cw4qJVjosg3NroASWT4Cc" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 [Visit the tSNE Vocal Sampler]({{ site.url }}/projects/VocalSampler) and [listen to °mm ↓m​:​°​,]({{ site.url }}/projects/mm-m) to get an idea of how to use this data to generate algorithmic scores and synthesize sound. 
 

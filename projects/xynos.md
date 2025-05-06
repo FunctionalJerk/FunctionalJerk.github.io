@@ -5,9 +5,7 @@ title: 'xynos'
 
 # Xynόs
 
-<video width="100%" controls>
-  <source src="{{ site.url }}/assets/vid/projects/xynos/Elli_1_cut.mp4" type="video/mp4">
-</video>  
+<iframe title="Automagic" width="560" height="315" src="https://makertube.net/videos/embed/sWewgtryYhpFsvCuEhcPnJ" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 This project took place in early 2025 on the occasion of **Elisabeth Codoux'** masters exam in *Klang und Realität* at *Robert Schumann Hochschule Düsseldorf*. 
 Her idea was to build a series of 'musical robots' that are remote-controllable, so that an audience could interact with them in a live performance.

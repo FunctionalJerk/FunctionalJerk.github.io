@@ -157,9 +157,7 @@ These are some of the instruments I've realized.
 
 #### TSNE VocalSampler
 
-<video width="100%" controls>
-  <source src="{{ site.url }}/assets/vid/projects/VocalSampler/demo.mp4" type="video/mp4">
-</video>
+<iframe title="SuperCollider tSNE Sampler" width="560" height="315" src="https://makertube.net/videos/embed/3D3E6frEJkY3e3BRtvjfgv" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 [Project page]({{ site.github.url }}/projects/VocalSampler)
 
@@ -169,9 +167,7 @@ These are some of the instruments I've realized.
 
 #### AudioTSNEViewer
 
-<video width="100%" controls>
-  <source src="{{ site.url }}/assets/vid/projects/DataMining/tsne.mp4" type="video/mp4">
-</video>  
+<iframe title="AudioTSNEViewer" width="560" height="315" src="https://makertube.net/videos/embed/2Cw4qJVjosg3NroASWT4Cc" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 [Project page]({{ site.github.url }}/projects/DataMining)
 
@@ -179,11 +175,8 @@ These are some of the instruments I've realized.
 
 #### DIY Granular Synth
 
-<video width="100%" controls>
-  <source src="{{ site.url }}/assets/vid/projects/Synth/demo.mp4" type="video/mp4">
-</video>  
+<iframe title="DIY granular Synth demo" width="560" height="315" src="https://makertube.net/videos/embed/tTJCs7pR7fLQQN2NWyVTqN" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 [Project page]({{ site.github.url }}/projects/Synth)
-
 
 
