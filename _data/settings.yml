@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-#- {name: 'Home', url: ''}
+#- {name: 'Home', url: 'projects'}
 - {name: 'Projects', url: 'projects'}
 - {name: 'Media',    url: 'media'}
 - {name: 'About',    url: 'about'}
@@ -12,13 +12,13 @@ menu:
 
 projects:
 #- {name: 'Axis Mundi',  url: 'axismundi'}
-#- {name: 'Xynos',  url: 'xynos'}
+- {name: 'Automagic',  url: 'automagic'}
 - {name: 'invers/invertiert',  url: 'inversinvertiert'}
 #- {name: 'Making Place',  url: 'makingplace'}
 - {name: 'Hyalalie',  url: 'Hyalalie'}
 - {name: 'Apotrop',  url: 'Apotrop'}
 - {name: 'DIY Granular-Synth',  url: 'Synth'}
-- {name: 'EsKannNichtAllesBlumeSein', url: 'Blume'}
+#- {name: 'EsKannNichtAllesBlumeSein', url: 'Blume'}
 - {name: '°mm ↓m​:​°​,',   url: 'mm-m'}
 - {name: 'tSNE-VocalSampler',   url: 'VocalSampler'}
 - {name: 'Audio Data Mining', url: 'DataMining'}
@@ -30,7 +30,7 @@ social:
 #- {icon: 'mail',	link: 'mailto:d.hanraths(at)web.de'}
 - {icon: 'github',	link: 'https://github.com/FunctionalJerk'}
 - {icon: 'bandcamp',	link: 'https://davidhanraths.bandcamp.com'}
-- {icon: 'mastodon',	link: 'https://social.toplap.org/@FunctionalJerk'}
+- {icon: 'twitter',	link: 'https://social.toplap.org/@FunctionalJerk'}
 #- {icon: 'soundcloud',	link: 'https://soundcloud.com/d-the-dangerous'}
 
 #-------------------------------

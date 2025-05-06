@@ -22,6 +22,9 @@
 <loc>http://localhost:4000/about</loc>
 </url>
 <url>
+<loc>http://localhost:4000/projects/automagic/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/projects/axismundi/</loc>
 </url>
 <url>
@@ -41,8 +44,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/projects</loc>
-</url>
-<url>
-<loc>http://localhost:4000/projects/xynos/</loc>
 </url>
 </urlset>

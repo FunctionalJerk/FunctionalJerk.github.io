@@ -4,6 +4,8 @@ title: Home
 permalink: /
 ---
 
+
+<!---
 # Welcome! 
 
 Hey you! Thanks for visiting this very new place.  
@@ -14,7 +16,7 @@ Click through the [projects]({{ site.url }}/projects) or scroll through [media](
 This site launched just recently and a good amount of content is still missing. It is hosted through GitHub-pages and you can check out the source code [here](https://github.com/FunctionalJerk/FunctionalJerk.github.io).  
 From now on, I will update this page frequently by adding projects and general info, so stay tuned! 
 
-
+--->
 
 
 

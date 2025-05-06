@@ -1,0 +1,39 @@
+---
+layout: default
+title: 'automagic'
+---
+
+# Automagic
+
+<iframe title="automagic live" width="560" height="315" src="https://makertube.net/videos/embed/n2mMk9wKi1gUMKhRZEyD9V" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>  
+*© Elisabeth Codoux*
+
+This project took place in early 2025 on the occasion of **Elisabeth Codoux'** masters exam in *Klang und Realität* at *Robert Schumann Hochschule Düsseldorf*.  
+Her idea was to build a series of 'musical robots' that are remote-controllable so that an audience could interact with them within a live-performance setting.  
+Elisabeth asked me to help her realize this idea. She designed and build the hardware part of the *robots* and their remote controls, while I designed the circuitry, programmed the microcontrollers and advised her in the planning of the hardware.  
+
+We ended up building six robots that were equipped with LEDs, aswell as stepper- and vibrationmotors. For each robot we build one remote control that controlled the LED color, LED "candlelight flicker" (pseudo-random brightness modulation) and also the each of the motors speed. 
+
+Dennis Scheiba kindly helped us create a custom network protocol for transmitting the remote controls' data and reviewed my code.  
+ 
+#### Pics 
+
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/Elli_2_scale.jpg)  
+Perfboard with the ESP32C3 that was controlling one of the robots. 
+
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/IMG_3820_crop.jpg)  
+*© Elisabeth Codoux*  
+One of the six remote controls
+
+<!---
+#### Automagic
+
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/Elli_1.jpg)  
+*© Raphael Zöschinger* 
+
+## Technical stuff
+--->
+
+## Related projects
+
+ - [invers/invertiert]({{ site.url }}/projects/inversinvertiert)
