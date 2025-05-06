@@ -18,6 +18,10 @@ Dennis Scheiba kindly helped us create a custom network protocol for transmittin
  
 #### Pics 
 
+<iframe title="Automagic" width="560" height="315" src="https://makertube.net/videos/embed/sWewgtryYhpFsvCuEhcPnJ" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>  
+*© Elisabeth Codoux*  
+Closeup of the first prototype.
+
 ![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/Elli_2_scale.jpg)  
 Perfboard with the ESP32C3 that was controlling one of the robots. 
 
