@@ -10,9 +10,9 @@ title: 'automagic'
 
 This project took place in early 2025 on the occasion of **Elisabeth Codoux'** masters exam in *Klang und Realität* at *Robert Schumann Hochschule Düsseldorf*.  
 Her idea was to build a series of 'musical robots' that are remote-controllable so that an audience could interact with them within a live-performance setting.  
-Elisabeth asked me to help her realize this idea. She designed and build the hardware part of the *robots* and their remote controls, while I designed the circuitry, programmed the microcontrollers and advised her in the planning of the hardware.  
+Elisabeth asked me to help her implement this idea. She designed and built the hardware part of the *robots* and their remote controls according to my advise, while I designed and built the circuits and software for the microcontrollers.  
 
-We ended up building six robots that were equipped with LEDs, aswell as stepper- and vibrationmotors. For each robot we build one remote control that controlled the LED color, LED "candlelight flicker" (pseudo-random brightness modulation) and also the each of the motors speed. 
+We ended up building six robots that were equipped with LEDs, aswell as stepper- and vibrationmotors. For each robot we build one remote control that controlled the LED color, LED "candlelight flicker" (pseudo-random brightness modulation),   aswell as each of the motors speed. 
 
 Dennis Scheiba kindly helped us create a custom network protocol for transmitting the remote controls' data and reviewed my code.  
  
