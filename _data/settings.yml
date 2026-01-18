@@ -15,7 +15,7 @@ projects:
 - {name: 'Axis Mundi',  url: 'axismundi'}
 - {name: 'Automagic',  url: 'automagic'}
 - {name: 'invers/invertiert',  url: 'inversinvertiert'}
-- {name: 'Making Place',  url: 'makingplace'}
+#- {name: 'Making Place',  url: 'makingplace'}
 - {name: 'Hyalalie',  url: 'Hyalalie'}
 - {name: 'Apotrop',  url: 'Apotrop'}
 - {name: 'DIY Granular-Synth',  url: 'Synth'}
