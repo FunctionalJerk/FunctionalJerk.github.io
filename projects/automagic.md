@@ -5,7 +5,7 @@ title: 'automagic'
 
 # Automagic
 
-<iframe title="automagic live" width="560" height="315" src="https://makertube.net/videos/embed/n2mMk9wKi1gUMKhRZEyD9V" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>  
+<iframe title="automagic live" width="100%" height="500" src="https://makertube.net/videos/embed/n2mMk9wKi1gUMKhRZEyD9V" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>  
 *© Elisabeth Codoux*
 
 This project took place in early 2025 on the occasion of **Elisabeth Codoux'** masters exam in *Klang und Realität* at *Robert Schumann Hochschule Düsseldorf*.  
@@ -18,14 +18,14 @@ Dennis Scheiba kindly helped us create a custom network protocol for transmittin
  
 #### Pics 
 
-<iframe title="Automagic" width="560" height="315" src="https://makertube.net/videos/embed/sWewgtryYhpFsvCuEhcPnJ" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>  
+<iframe title="Automagic" width="100%" height="500px" src="https://makertube.net/videos/embed/sWewgtryYhpFsvCuEhcPnJ" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>  
 *© Elisabeth Codoux*  
 Closeup of the first prototype.
 
-![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/Elli_2_scale.jpg)  
-Perfboard with the ESP32C3 that was controlling one of the robots. 
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/Elli_2_scale.jpg){: width="100%" }  
+Perfboard with the ESP32C3 that was inside the remote controls. 
 
-![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/IMG_3820_crop.jpg)  
+![]({{ site.github.url }}/assets/img/projects/{{ page.title }}/IMG_3820_crop.jpg){: width="100%" }  
 *© Elisabeth Codoux*  
 One of the six remote controls
 

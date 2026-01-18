@@ -2,26 +2,27 @@
 # General Site Settings
 
 menu:
-#- {name: 'Home', url: 'projects'}
+#- {name: 'Home', url: ''}
 - {name: 'Projects', url: 'projects'}
 - {name: 'Media',    url: 'media'}
 - {name: 'About',    url: 'about'}
+#- {name: 'Blog',    url: 'blog'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-#- {name: 'Axis Mundi',  url: 'axismundi'}
+- {name: 'Axis Mundi',  url: 'axismundi'}
 - {name: 'Automagic',  url: 'automagic'}
 - {name: 'invers/invertiert',  url: 'inversinvertiert'}
-#- {name: 'Making Place',  url: 'makingplace'}
+- {name: 'Making Place',  url: 'makingplace'}
 - {name: 'Hyalalie',  url: 'Hyalalie'}
 - {name: 'Apotrop',  url: 'Apotrop'}
 - {name: 'DIY Granular-Synth',  url: 'Synth'}
 #- {name: 'EsKannNichtAllesBlumeSein', url: 'Blume'}
 - {name: '°mm ↓m​:​°​,',   url: 'mm-m'}
 - {name: 'tSNE-VocalSampler',   url: 'VocalSampler'}
-- {name: 'Audio Data Mining', url: 'DataMining'}
+#- {name: 'Audio Data Mining', url: 'DataMining'}
 
 #-------------------------------
 # Contact Section
