@@ -7,7 +7,7 @@ title: 'axismundi'
 
 After being asked to produce an audio installation for a festival celebrating the 8th birthday of [Callshop Radio](https://callshopradio.com/), Lennart Posch and I got together to conceptualize this project.
 We decided to build a sonic sculpture that would process and sonify the electromagnetic interferences in the room.  
-I had already been digging myself into the rabbit hole of point-to-point-soldering, strongly inspired by the works of Peter Vogel and Iona Vreme Moser.  
+I had already been digging myself into the rabbit hole of point-to-point-soldering, strongly inspired by the works of [Peter Vogel](https://www.petervogel-heritage.de/) and [Iona Vreme Moser](https://www.ioanavrememoser.com/).  
 So I started the building process, while Lennart planned the staging and scenic elements.  
 He invited the phenomenal bass-baritone [Thomas Huy](https://en.dlopera.com/thomas-huy) to perform with the sculpture on the day of the festival, which worked wonderfully. 
 In order for that to work, I mixed Thomas' vocals with the EMF signals in the processing stage.  
