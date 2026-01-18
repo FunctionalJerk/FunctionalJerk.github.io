@@ -5,7 +5,7 @@ title: 'axismundi'
 
 # Axis Mundi
 
-After being asked to produce an audio installation for a festival celebrating the 8th birthday of [Callshop Radio](https://callshopradio.com/), Lennart Posch and I got together to conceptualize this project.
+After being asked to produce an audio installation for a festival celebrating the 8th birthday of [Callshop Radio](https://callshopradio.com/), my good friend Lennart Posch and I got together to conceptualize this project.
 We decided to build a sonic sculpture that would process and sonify the electromagnetic interferences in the room.  
 I had already been digging myself into the rabbit hole of point-to-point-soldering, strongly inspired by the works of [Peter Vogel](https://www.petervogel-heritage.de/) and [Iona Vreme Moser](https://www.ioanavrememoser.com/).  
 So I started the building process, while Lennart planned the staging and scenic elements.  
@@ -30,7 +30,7 @@ For the processing (between input -and output-stage) I used a RaspberryPi® runn
 #### Pics:
 
 {% include image-gallery.html folder="/assets/img/projects/axismundi/proto" %}  
-*Unfinished sound-scultpure during the build process – © @flordefuega*
+*© Flor de Fuego – @flordefuega*
 
 {% include image-gallery.html folder="/assets/img/projects/axismundi/gallery" %}  
 *© Thomas Schoger – @schogette_*
