@@ -16,7 +16,7 @@ It is still ongoing with a long todo-list,
 but I want to present a functioning prototype to start out this documentation nonetheless.  
 Here's a short demo: 
 
-<iframe title="DIY granular Synth demo" width="560" height="315" src="https://makertube.net/videos/embed/tTJCs7pR7fLQQN2NWyVTqN" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+<iframe title="DIY granular Synth demo" width="100%" height="430" src="https://makertube.net/videos/embed/tTJCs7pR7fLQQN2NWyVTqN" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 At current time, there are basically two devices:
 1. : A Zither, that was prepared with speakers and piezoelectric sensors.  
