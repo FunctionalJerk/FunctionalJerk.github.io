@@ -8,7 +8,7 @@ title: 'VocalSampler'
 In this project I aimed to connect the results of my artistic research on vocal melodies and on mining audio-data. 
 It was part of my bachelor studies in *Music and Media* at *Robert-Schumann-Hochschule Düsseldorf*.  
 
-<iframe title="SuperCollider tSNE Sampler" width="560" height="315" src="https://makertube.net/videos/embed/3D3E6frEJkY3e3BRtvjfgv" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+<iframe title="SuperCollider tSNE Sampler" width="100%" height="430" src="https://makertube.net/videos/embed/3D3E6frEJkY3e3BRtvjfgv" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 Samples within a library were analyzed and mapped by the t-SNE algorithm through a [*python-script*](https://github.com/ml4a/ml4a-ofx/blob/master/scripts/tSNE-audio.py) provided by [*Machine learning for Artists*](https://ml4a.github.io/ml4a/). 
 
