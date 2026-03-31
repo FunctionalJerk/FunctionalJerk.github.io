@@ -4,13 +4,12 @@ title: Home
 permalink: /
 ---
 
-<p align="center" margin-left="10%">
-  <img src="/assets/img/home/1.JPG" width="100%" style="margin-left:10%"/>
+<p align="center">
+  <img id="profile" src="/assets/img/home/1.JPG" width="100%" style="margin-left:10%"/>
 </p>
 
 <!---
 # Welcome! 
-
 Hey you! Thanks for visiting this very new place.  
 
 This is where I host my works of art and artistic research.  
