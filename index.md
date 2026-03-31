@@ -4,6 +4,9 @@ title: Home
 permalink: /
 ---
 
+<p align="center" margin-left="10%">
+  <img src="/assets/img/home/1.JPG" width="100%" style="margin-left:10%"/>
+</p>
 
 <!---
 # Welcome! 
