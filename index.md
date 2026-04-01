@@ -5,11 +5,12 @@ permalink: /
 ---
 
 <p align="center">
-  <img id="profile" src="/assets/img/home/1.JPG" width="100%" style="margin-left:10%"/>
+  <img id="profile" src="/assets/img/home/1.JPG" width="100%"/>
 </p>
 
 <!---
 # Welcome! 
+ style="margin-left:15%" 
 Hey you! Thanks for visiting this very new place.  
 
 This is where I host my works of art and artistic research.  
