@@ -30,8 +30,10 @@ projects:
 social:
 #- {icon: 'mail',	link: 'mailto:d.hanraths(at)web.de'}
 - {icon: 'github',	link: 'https://github.com/FunctionalJerk'}
+#- {icon: 'mastodon',	link: 'https://social.toplap.org/@FunctionalJerk'}
 - {icon: 'bandcamp',	link: 'https://davidhanraths.bandcamp.com'}
 - {icon: 'laptop',	link: 'https://social.toplap.org/@FunctionalJerk'}
+- {icon: 'instagram', link: 'https://www.instagram.com/functional.jerk'}
 #- {icon: 'soundcloud',	link: 'https://soundcloud.com/d-the-dangerous'}
 
 #-------------------------------

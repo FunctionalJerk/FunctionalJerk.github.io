@@ -184,22 +184,22 @@ td, th {
 }
 
 @font-face {
-  font-family: "Open Sans";
+  font-family: "Courier New", Courier, monospace;
   font-style: normal;
   font-weight: 300;
-  src: local("Open Sans Light"), local("OpenSans-Light"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) format("woff");
+  src: local("Courier New Light"), local("Courier New Light"), url(https://fonts.googleapis.com/css?family=Courier) format("woff");
 }
 @font-face {
-  font-family: "Open Sans";
+  font-family: "Courier New", Courier, monospace;
   font-style: normal;
   font-weight: 400;
-  src: local("Open Sans"), local("OpenSans"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format("woff");
+  src: local("Courier New"), url(https://fonts.googleapis.com/css?family=Courier) format("woff");
 }
 @font-face {
-  font-family: "Open Sans";
+  font-family: "Courier New", Courier, monospace;
   font-style: normal;
   font-weight: 700;
-  src: local("Open Sans Bold"), local("OpenSans-Bold"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format("woff");
+  src: local("Courier New Bold"), url(https://fonts.googleapis.com/css?family=Courier) format("woff");
 }
 /* 
   Animation: bounceOut
@@ -705,7 +705,7 @@ body {
   background: #fff;
   font-size: 14px;
   line-height: 1.6;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Courier New", Courier, monospace;
   color: #666;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -907,7 +907,7 @@ footer .footer-wrap .social-media nav a:hover {
 }
 body {
   background: white;
-  font-family: "Roboto", serif;
+  font-family: "Courier New", Courier, monospace;
   font-size: 16px;
 }
 
