@@ -12,21 +12,14 @@ permalink: /media
 
 #### next_generation_XI
 
-<iframe 
-src="https://makertube.net/videos/embed/okkXLvGzcQBQDG2UYbfGcv"
-title="Big Crunch - Binaural Version" 
-width="597" 
-height="336" 
-frameborder="2"
-allowfullscreen 
-sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
-></iframe>
+<iframe title="Big Crunch - Binaural Version" width="597" height="336" src="https://makertube.net/videos/embed/okkXLvGzcQBQDG2UYbfGcv" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 <p><a href="https://makertube.net/w/okkXLvGzcQBQDG2UYbfGcv">Big Crunch</a></p>
 
 Live performance on my supercollider setup for sample- and bitrate-reduction in Ambisonics.  
+As seen on June 17th at ZKM Karlsruhe as part of the 11th next_generation Festival.
 Video kindly recorded by Emil Felhofer (@nicht_emil).  
-Binaural = headphone version!
+Binaural = headphone version!  
 
 #### Hyalalie
 
