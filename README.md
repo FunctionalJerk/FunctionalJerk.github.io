@@ -5,6 +5,5 @@ It was build using the [portfolio-jekyll-theme](https://github.com/LeNPaul/portf
 
 # ToDo
 
-- [ ] add HC-SR04_MIDICC 
 
 
